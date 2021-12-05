@@ -1,0 +1,3177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:badesamab/ics
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:b462c650-7b62-4aa2-9b43-a8261241573e
+SUMMARY:01 شهریور روز پزشک - روز بزرگداشت
+  ابوعلی سینا
+DTSTAMP:20230823T040000Z
+DTSTART:20230823
+DESCRIPTION:01 شهریور روز پزشک - روز بزرگداشت
+  ابوعلی سینا
+END:VEVENT
+BEGIN:VEVENT
+UID:a803a535-6746-46c8-88ae-01385f104968
+SUMMARY:02 شهریور آغاز هفته دولت
+DTSTAMP:20230824T040000Z
+DTSTART:20230824
+DESCRIPTION:02 شهریور آغاز هفته دولت
+END:VEVENT
+BEGIN:VEVENT
+UID:49b9ec82-1959-4245-aa10-33fe977024a4
+SUMMARY:02 شهریور شهادت سید علی اندرزگو(19
+  رمضان 1357 ه ش)
+DTSTAMP:20230824T040000Z
+DTSTART:20230824
+DESCRIPTION:02 شهریور شهادت سید علی اندرزگو(19
+  رمضان 1357 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:57b76662-b017-421d-98d4-0120d6d23b7a
+SUMMARY:02 شهریور شهادت حضرت امام حسن مجتبی
+  علیه السلام (50 هـ ق) (به روایتی)
+DTSTAMP:20230824T040000Z
+DTSTART:20230824
+DESCRIPTION:02 شهریور شهادت حضرت امام حسن مجتبی
+  علیه السلام (50 هـ ق) (به روایتی)
+END:VEVENT
+BEGIN:VEVENT
+UID:c3e11420-0ab3-48fa-a57b-0a3c0d1bc72d
+SUMMARY:02 شهریور روز بزرگداشت سلمان فارسی
+DTSTAMP:20230824T040000Z
+DTSTART:20230824
+DESCRIPTION:02 شهریور روز بزرگداشت سلمان فارسی
+END:VEVENT
+BEGIN:VEVENT
+UID:b96fd65d-7595-4578-91a7-2f4cb91d8c5f
+SUMMARY:03 شهریور اشغال ایران توسط متفقین و
+  فرار رضاخان (1320 ه ش)
+DTSTAMP:20230825T040000Z
+DTSTART:20230825
+DESCRIPTION:03 شهریور اشغال ایران توسط متفقین و
+  فرار رضاخان (1320 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf16bc5-bca3-4638-a8c2-28b59241db91
+SUMMARY:04 شهریور روز کارمند
+DTSTAMP:20230826T040000Z
+DTSTART:20230826
+DESCRIPTION:04 شهریور روز کارمند
+END:VEVENT
+BEGIN:VEVENT
+UID:7678beab-d3dd-45c2-bcd3-fcea94f5d432
+SUMMARY:04 شهریور شهادت عمار بن یاسر(37 هـ ق)
+DTSTAMP:20230826T040000Z
+DTSTART:20230826
+DESCRIPTION:04 شهریور شهادت عمار بن یاسر(37 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:5c1b98c3-0538-4dd6-a6bd-525d109ef7ab
+SUMMARY:05 شهریور روز داروسازی - روز بزرگداشت
+  محمدبن زکریای رازی
+DTSTAMP:20230827T040000Z
+DTSTART:20230827
+DESCRIPTION:05 شهریور روز داروسازی - روز
+  بزرگداشت محمدبن زکریای رازی
+END:VEVENT
+BEGIN:VEVENT
+UID:164f2164-ca65-4332-8955-a146df385b08
+SUMMARY:05 شهریور روز کشتی
+DTSTAMP:20230827T040000Z
+DTSTART:20230827
+DESCRIPTION:05 شهریور روز کشتی
+END:VEVENT
+BEGIN:VEVENT
+UID:6697eeb8-7f2d-4f16-99b0-e96f746210b5
+SUMMARY:08 شهریور روز مبارزه با تروریسم(
+  انفجار دفتر نخست وزیری به دست منافقان و
+  شهادت مظلومانه شهیدان رجائی و باهنر - 1360
+  ه ش)
+DTSTAMP:20230830T040000Z
+DTSTART:20230830
+DESCRIPTION:08 شهریور روز مبارزه با تروریسم(
+  انفجار دفتر نخست وزیری به دست منافقان و
+  شهادت مظلومانه شهیدان رجائی و باهنر - 1360
+  ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:7147986e-1759-4b47-bb85-6873989e144d
+SUMMARY:10 شهریور روز بانکداری اسلامی(سالروز
+  تصویب قانون عملیات بانکی بدون ربا 1362 ه ش)
+DTSTAMP:20230901T040000Z
+DTSTART:20230901
+DESCRIPTION:10 شهریور روز بانکداری
+  اسلامی(سالروز تصویب قانون عملیات بانکی
+  بدون ربا 1362 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a78cbb-323d-4897-98b3-7ff9e974ce50
+SUMMARY:10 شهریور روز تشکیل قرارگاه پدافند
+  هوایی حضرت خاتم الانبیا (صلى الله عليه و
+  آله )
+DTSTAMP:20230901T040000Z
+DTSTART:20230901
+DESCRIPTION:10 شهریور روز تشکیل قرارگاه پدافند
+  هوایی حضرت خاتم الانبیا (صلى الله عليه و
+  آله )
+END:VEVENT
+BEGIN:VEVENT
+UID:9af196be-79ac-492a-9b82-f0139c813808
+SUMMARY:11 شهریور روز صنعت چاپ
+DTSTAMP:20230902T040000Z
+DTSTART:20230902
+DESCRIPTION:11 شهریور روز صنعت چاپ
+END:VEVENT
+BEGIN:VEVENT
+UID:ee8aaf55-2618-4a95-8649-e64c05704b86
+SUMMARY:12 شهریور روز بهورز
+DTSTAMP:20230903T040000Z
+DTSTART:20230903
+DESCRIPTION:12 شهریور روز بهورز
+END:VEVENT
+BEGIN:VEVENT
+UID:beeef6fc-8948-4a3d-a24e-2b39ef31608d
+SUMMARY:12 شهریور روز مبارزه با استعمار
+  انگلیس(سالروز شهادت رئیسعلی دلواری)
+DTSTAMP:20230903T040000Z
+DTSTART:20230903
+DESCRIPTION:12 شهریور روز مبارزه با استعمار
+  انگلیس(سالروز شهادت رئیسعلی دلواری)
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe0e4fa-ec54-4812-afa9-2d37aee5f8cc
+SUMMARY:13 شهریور روز تعاون
+DTSTAMP:20230904T040000Z
+DTSTART:20230904
+DESCRIPTION:13 شهریور روز تعاون
+END:VEVENT
+BEGIN:VEVENT
+UID:811fa980-1133-47e3-8476-ce227ae21822
+SUMMARY:13 شهریور روز بزرگداشت ابوریحان
+  بیرونی
+DTSTAMP:20230904T040000Z
+DTSTART:20230904
+DESCRIPTION:13 شهریور روز بزرگداشت ابوریحان
+  بیرونی
+END:VEVENT
+BEGIN:VEVENT
+UID:acdf0f0e-138e-42e3-b403-f5076e6cd042
+SUMMARY:13 شهریور روز مردم شناسی
+DTSTAMP:20230904T040000Z
+DTSTART:20230904
+DESCRIPTION:13 شهریور روز مردم شناسی
+END:VEVENT
+BEGIN:VEVENT
+UID:7c6b9c4e-4a46-495e-9cf4-5c999d6b68a7
+SUMMARY:14 شهریور شهادت آیت الله قدوسی و سرتیپ
+  وحید دستجردی (1360 ه ش)
+DTSTAMP:20230905T040000Z
+DTSTART:20230905
+DESCRIPTION:14 شهریور شهادت آیت الله قدوسی و
+  سرتیپ وحید دستجردی (1360 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:7e0405c6-134f-4a9e-83f3-271e1052196a
+SUMMARY:تعطیل - 15 شهریور اربعین حسینی
+DTSTAMP:20230906T040000Z
+DTSTART:20230906
+DESCRIPTION:15 شهریور اربعین حسینی
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:efb99137-7794-4826-8d66-03008889c65b
+SUMMARY:15 شهریور ورود جابربن عبدالله انصاری
+  به کربلا (61 هـ ق)
+DTSTAMP:20230906T040000Z
+DTSTART:20230906
+DESCRIPTION:15 شهریور ورود جابربن عبدالله
+  انصاری به کربلا (61 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:171f2cf2-a90f-4432-8820-9a1d469b5121
+SUMMARY:17 شهریور قیام 17 شهریور و کشتار جمعی
+  از مردم به دست ماموران ستم شاهی پهلوی (1357
+  ه ش)
+DTSTAMP:20230908T040000Z
+DTSTART:20230908
+DESCRIPTION:17 شهریور قیام 17 شهریور و کشتار جمعی
+  از مردم به دست ماموران ستم شاهی پهلوی (1357
+  ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:14be7091-2390-4612-bb09-009633a620e5
+SUMMARY:19 شهریور وفات آیت الله سید محمود
+  طالقانی اولین امام جمعه تهران(1358 ه ش)
+DTSTAMP:20230910T040000Z
+DTSTART:20230910
+DESCRIPTION:19 شهریور وفات آیت الله سید محمود
+  طالقانی اولین امام جمعه تهران(1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:e2deb3ad-e76c-45df-9f30-0a62ae3e64ac
+SUMMARY:20 شهریور شهادت دومین شهید محراب آیت
+  الله مدنی به دست منافقان (1360 ه ش)
+DTSTAMP:20230911T040000Z
+DTSTART:20230911
+DESCRIPTION:20 شهریور شهادت دومین شهید محراب
+  آیت الله مدنی به دست منافقان (1360 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:4a146d0e-8f7e-4c73-8702-e94faf093942
+SUMMARY:21 شهریور روز سینما
+DTSTAMP:20230912T040000Z
+DTSTART:20230912
+DESCRIPTION:21 شهریور روز سینما
+END:VEVENT
+BEGIN:VEVENT
+UID:32837c09-5c25-4a91-83a8-3dd0b66964c4
+SUMMARY:22 شهریور روز وقف
+DTSTAMP:20230913T040000Z
+DTSTART:20230913
+DESCRIPTION:22 شهریور روز وقف
+END:VEVENT
+BEGIN:VEVENT
+UID:d062c551-b28e-4b2b-9e4e-859fa2f17819
+SUMMARY:تعطیل - 23 شهریور رحلت حضرت رسول اکرم
+  صلی الله علیه و آله (11 هـ ق)
+DTSTAMP:20230914T040000Z
+DTSTART:20230914
+DESCRIPTION:23 شهریور رحلت حضرت رسول اکرم صلی
+  الله علیه و آله (11 هـ ق)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c6da7d0-7aa5-4343-93c8-e9fb85c9387b
+SUMMARY:تعطیل - 23 شهریور شهادت حضرت امام حسن
+  مجتبی علیه السلام (50 هـ ق)
+DTSTAMP:20230914T040000Z
+DTSTART:20230914
+DESCRIPTION:23 شهریور شهادت حضرت امام حسن مجتبی
+  علیه السلام (50 هـ ق)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:d86fec21-4aab-4393-a22d-b5f32becdd86
+SUMMARY:25 شهریور هجرت حضرت رسول اکرم صلی الله
+  علیه و آله از مکه به مدینه
+DTSTAMP:20230916T040000Z
+DTSTART:20230916
+DESCRIPTION:25 شهریور هجرت حضرت رسول اکرم صلی
+  الله علیه و آله از مکه به مدینه
+END:VEVENT
+BEGIN:VEVENT
+UID:1d156aa2-5164-43e2-a722-d74dc97903fc
+SUMMARY:25 شهریور شهادت حضرت امام حسن عسکری
+  علیه السلام (به قولی)
+DTSTAMP:20230916T040000Z
+DTSTART:20230916
+DESCRIPTION:25 شهریور شهادت حضرت امام حسن عسکری
+  علیه السلام (به قولی)
+END:VEVENT
+BEGIN:VEVENT
+UID:cfb6facd-99a5-4a02-8494-7316bfe4d9bb
+SUMMARY:27 شهریور روز شعر و ادب فارسی - روز
+  بزرگداشت استاد سید محمد حسین شهریار
+DTSTAMP:20230918T040000Z
+DTSTART:20230918
+DESCRIPTION:27 شهریور روز شعر و ادب فارسی - روز
+  بزرگداشت استاد سید محمد حسین شهریار
+END:VEVENT
+BEGIN:VEVENT
+UID:0c840980-a4ec-4f85-9fad-af41f286e637
+SUMMARY:28 شهریور خروج حضرت رسول اکرم صلی الله
+  علیه و آله از غار(ثور) و حرکت به سوی مدینه
+  (1 هـ ق)
+DTSTAMP:20230919T040000Z
+DTSTART:20230919
+DESCRIPTION:28 شهریور خروج حضرت رسول اکرم صلی
+  الله علیه و آله از غار(ثور) و حرکت به سوی
+  مدینه (1 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:79802d04-9dc9-49ec-a396-541e5e370cee
+SUMMARY:29 شهریور وفات سکینه خاتون دختر امام
+  حسین علیه السلام (117 هـ ق)
+DTSTAMP:20230920T040000Z
+DTSTART:20230920
+DESCRIPTION:29 شهریور وفات سکینه خاتون دختر
+  امام حسین علیه السلام (117 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:4a17b803-ca37-44f1-b105-1d0b67fa27ad
+SUMMARY:31 شهریور آغاز جنگ تحمیلی (1359 ه ش) -
+  آغاز هفته دفاع مقدس
+DTSTAMP:20230922T040000Z
+DTSTART:20230922
+DESCRIPTION:31 شهریور آغاز جنگ تحمیلی (1359 ه ش) -
+  آغاز هفته دفاع مقدس
+END:VEVENT
+BEGIN:VEVENT
+UID:7dcaa26c-8e63-4adf-9f71-c5ea4ec56a23
+SUMMARY:تعطیل - 01 مهر شهادت حضرت امام حسن
+  عسکری علیه السلام (260 هـ ق) و آغاز امامت
+  حضرت ولی عصر (عج)
+DTSTAMP:20230923T040000Z
+DTSTART:20230923
+DESCRIPTION:01 مهر شهادت حضرت امام حسن عسکری
+  علیه السلام (260 هـ ق) و آغاز امامت حضرت
+  ولی عصر (عج)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:54334bd1-588e-4b39-aae9-532b925abb03
+SUMMARY:03 مهر وفات جناب عبدالمطلب جد پیامبر
+  اکرم صلی الله علیه و آله
+DTSTAMP:20230925T040000Z
+DTSTART:20230925
+DESCRIPTION:03 مهر وفات جناب عبدالمطلب جد
+  پیامبر اکرم صلی الله علیه و آله
+END:VEVENT
+BEGIN:VEVENT
+UID:f39bf255-234c-48ef-a8cc-12da330d22c3
+SUMMARY:03 مهر ازدواج رسول اکرم صلی الله علیه
+  و آله با حضرت خدیجه کبری سلام الله علیها
+DTSTAMP:20230925T040000Z
+DTSTART:20230925
+DESCRIPTION:03 مهر ازدواج رسول اکرم صلی الله
+  علیه و آله با حضرت خدیجه کبری سلام الله
+  علیها
+END:VEVENT
+BEGIN:VEVENT
+UID:062324ac-4721-422c-93f1-6d04471888ea
+SUMMARY:05 مهر شکست حصر آبادان در عملیات ثامن
+  الائمه علیه السلام (1360 ه ش)
+DTSTAMP:20230927T040000Z
+DTSTART:20230927
+DESCRIPTION:05 مهر شکست حصر آبادان در عملیات
+  ثامن الائمه علیه السلام (1360 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:a3f6a10e-3242-443b-a69a-ad6631e3d9a8
+SUMMARY:05 مهر ولادت حضرت رسول اکرم صلی الله
+  علیه و آله به روایت اهل سنت(53 سال قبل از
+  هجرت) -آغاز هفته وحدت
+DTSTAMP:20230927T040000Z
+DTSTART:20230927
+DESCRIPTION:05 مهر ولادت حضرت رسول اکرم صلی الله
+  علیه و آله به روایت اهل سنت(53 سال قبل از
+  هجرت) -آغاز هفته وحدت
+END:VEVENT
+BEGIN:VEVENT
+UID:0c6a1811-5a8b-49e0-b4ae-140bcef736a7
+SUMMARY:05 مهر روز جهانی جهانگردی
+DTSTAMP:20230927T040000Z
+DTSTART:20230927
+DESCRIPTION:05 مهر روز جهانی جهانگردی
+END:VEVENT
+BEGIN:VEVENT
+UID:bed68506-5360-4e85-bdc3-c41ca1ca24d8
+SUMMARY:07 مهر روز بزرگداشت شمس
+DTSTAMP:20230929T040000Z
+DTSTART:20230929
+DESCRIPTION:07 مهر روز بزرگداشت شمس
+END:VEVENT
+BEGIN:VEVENT
+UID:5a6fa735-7f49-4ce1-b623-6195fe18b5f4
+SUMMARY:07 مهر روز آتش نشانی و ایمنی
+DTSTAMP:20230929T040000Z
+DTSTART:20230929
+DESCRIPTION:07 مهر روز آتش نشانی و ایمنی
+END:VEVENT
+BEGIN:VEVENT
+UID:40a8cf49-6f87-42fd-8bec-78f4914c6e03
+SUMMARY:07 مهر روز بزرگداشت فرماندهان شهید
+  دفاع مقدس
+DTSTAMP:20230929T040000Z
+DTSTART:20230929
+DESCRIPTION:07 مهر روز بزرگداشت فرماندهان شهید
+  دفاع مقدس
+END:VEVENT
+BEGIN:VEVENT
+UID:739877fa-7c09-45ba-8da0-ac049111583a
+SUMMARY:07 مهر شهادت سرداران اسلام :فلاحی،
+  فکوری، نامجو، کلاهدوز و جهان آرا (1360 ه ش)
+DTSTAMP:20230929T040000Z
+DTSTART:20230929
+DESCRIPTION:07 مهر شهادت سرداران اسلام :فلاحی،
+  فکوری، نامجو، کلاهدوز و جهان آرا (1360 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:160ccf9c-6990-4dfd-8368-f200dd58d1ce
+SUMMARY:08 مهر روز بزرگداشت مولوی
+DTSTAMP:20230930T040000Z
+DTSTART:20230930
+DESCRIPTION:08 مهر روز بزرگداشت مولوی
+END:VEVENT
+BEGIN:VEVENT
+UID:760af2c0-adb6-4c81-a1a7-bbd350704a2b
+SUMMARY:08 مهر روز جهانی ناشنوایان
+DTSTAMP:20230930T040000Z
+DTSTART:20230930
+DESCRIPTION:08 مهر روز جهانی ناشنوایان
+END:VEVENT
+BEGIN:VEVENT
+UID:79c331d0-078d-4a3a-a1a2-4d6203324d5b
+SUMMARY:08 مهر روز جهانی دریانوردی
+DTSTAMP:20230930T040000Z
+DTSTART:20230930
+DESCRIPTION:08 مهر روز جهانی دریانوردی
+END:VEVENT
+BEGIN:VEVENT
+UID:7b150b52-dbc1-4ca4-bd21-a558583c72f8
+SUMMARY:09 مهر روز همبستگی و همدردی با کودکان
+  و نوجوانان فلسطینی
+DTSTAMP:20231001T040000Z
+DTSTART:20231001
+DESCRIPTION:09 مهر روز همبستگی و همدردی با
+  کودکان و نوجوانان فلسطینی
+END:VEVENT
+BEGIN:VEVENT
+UID:865835c2-10b9-481b-bf8b-bb34abe22ce4
+SUMMARY:09 مهر روز جهانی سالمندان
+DTSTAMP:20231001T040000Z
+DTSTART:20231001
+DESCRIPTION:09 مهر روز جهانی سالمندان
+END:VEVENT
+BEGIN:VEVENT
+UID:a9390150-d0cd-424f-8f6d-4693457ee104
+SUMMARY:تعطیل - 10 مهر میلاد حضرت رسول اکرم صلی
+  الله علیه و آله (53 سال قبل از هجرت) و روز
+  اخلاق و مهرورزی
+DTSTAMP:20231002T040000Z
+DTSTART:20231002
+DESCRIPTION:10 مهر میلاد حضرت رسول اکرم صلی الله
+  علیه و آله (53 سال قبل از هجرت) و روز اخلاق
+  و مهرورزی
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:f88b6d62-37d5-4407-8527-fc31bea65ed7
+SUMMARY:تعطیل - 10 مهر ولادت حضرت امام جعفر
+  صادق علیه السلام مؤسس مذهب جعفری(83 هـ ق)
+DTSTAMP:20231002T040000Z
+DTSTART:20231002
+DESCRIPTION:10 مهر ولادت حضرت امام جعفر صادق
+  علیه السلام مؤسس مذهب جعفری(83 هـ ق)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:1064c164-b2e0-457a-a475-bc75790a570c
+SUMMARY:13 مهر هجرت حضرت امام خمینی (رحمة الله
+  عليه) از عراق به پاریس (1357 ه ش)
+DTSTAMP:20231005T040000Z
+DTSTART:20231005
+DESCRIPTION:13 مهر هجرت حضرت امام خمینی (رحمة
+  الله عليه) از عراق به پاریس (1357 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:513c2636-bfa4-46db-9c6c-cdc101001dd6
+SUMMARY:13 مهر روز نیروی انتظامی
+DTSTAMP:20231005T040000Z
+DTSTART:20231005
+DESCRIPTION:13 مهر روز نیروی انتظامی
+END:VEVENT
+BEGIN:VEVENT
+UID:d296c4ae-ccd0-49a6-89de-66e1e3242223
+SUMMARY:14 مهر روز دامپزشکی
+DTSTAMP:20231006T040000Z
+DTSTART:20231006
+DESCRIPTION:14 مهر روز دامپزشکی
+END:VEVENT
+BEGIN:VEVENT
+UID:631d1b86-a1a4-4d78-8d7a-e8f3b119dd66
+SUMMARY:15 مهر روز روستا و عشایر
+DTSTAMP:20231007T040000Z
+DTSTART:20231007
+DESCRIPTION:15 مهر روز روستا و عشایر
+END:VEVENT
+BEGIN:VEVENT
+UID:ae05bf05-c685-4909-b46d-ef20e132c44c
+SUMMARY:15 مهر غزوه بنی النضیر
+DTSTAMP:20231007T040000Z
+DTSTART:20231007
+DESCRIPTION:15 مهر غزوه بنی النضیر
+END:VEVENT
+BEGIN:VEVENT
+UID:cf1f3d7e-9498-4d20-a521-15bc0e879a95
+SUMMARY:16 مهر روز جهانی کودک
+DTSTAMP:20231008T040000Z
+DTSTART:20231008
+DESCRIPTION:16 مهر روز جهانی کودک
+END:VEVENT
+BEGIN:VEVENT
+UID:b9801846-d6b6-4393-aef9-f8681240b9ab
+SUMMARY:17 مهر روز جهانی پست
+DTSTAMP:20231009T040000Z
+DTSTART:20231009
+DESCRIPTION:17 مهر روز جهانی پست
+END:VEVENT
+BEGIN:VEVENT
+UID:27d529b0-7e6e-405d-b0f7-8b49d41a7451
+SUMMARY:19 مهر صلح حضرت امام حسن مجتبی علیه
+  السلام (41 هـ ق)
+DTSTAMP:20231011T040000Z
+DTSTART:20231011
+DESCRIPTION:19 مهر صلح حضرت امام حسن مجتبی علیه
+  السلام (41 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:c68d504d-4619-47d8-9dce-62ca710a1480
+SUMMARY:20 مهر روز بزرگداشت حافظ
+DTSTAMP:20231012T040000Z
+DTSTART:20231012
+DESCRIPTION:20 مهر روز بزرگداشت حافظ
+END:VEVENT
+BEGIN:VEVENT
+UID:4a55d074-59fb-4439-a6e8-af752038e09b
+SUMMARY:20 مهر روز ملی کاهش اثرات بلایای طبیعی
+DTSTAMP:20231012T040000Z
+DTSTART:20231012
+DESCRIPTION:20 مهر روز ملی کاهش اثرات بلایای
+  طبیعی
+END:VEVENT
+BEGIN:VEVENT
+UID:a5989053-3ddc-4dd5-95a2-35a77b797355
+SUMMARY:20 مهر روز اسکان معلولان وسالمندان
+DTSTAMP:20231012T040000Z
+DTSTART:20231012
+DESCRIPTION:20 مهر روز اسکان معلولان وسالمندان
+END:VEVENT
+BEGIN:VEVENT
+UID:3e71fbc7-8193-4e73-8e0c-ce30f8cf0a85
+SUMMARY:22 مهر روز جهانی استاندارد
+DTSTAMP:20231014T040000Z
+DTSTART:20231014
+DESCRIPTION:22 مهر روز جهانی استاندارد
+END:VEVENT
+BEGIN:VEVENT
+UID:cb32d936-055c-4ed6-8279-7982c6eb85c5
+SUMMARY:23 مهر شهادت پنجمین شهید محراب آیت
+  الله اشرفی اصفهانی به دست منافقان (1361 ه
+  ش)
+DTSTAMP:20231015T040000Z
+DTSTART:20231015
+DESCRIPTION:23 مهر شهادت پنجمین شهید محراب آیت
+  الله اشرفی اصفهانی به دست منافقان (1361 ه
+  ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:65a57bdc-23a6-4b1e-8154-8b603ce20dfc
+SUMMARY:23 مهر روز جهانی نابینایان(عصای سفید)
+DTSTAMP:20231015T040000Z
+DTSTART:20231015
+DESCRIPTION:23 مهر روز جهانی نابینایان(عصای
+  سفید)
+END:VEVENT
+BEGIN:VEVENT
+UID:24d5a8e9-be93-4c4b-9939-8e4500591e1e
+SUMMARY:24 مهر روز ملی پارالمپیک
+DTSTAMP:20231016T040000Z
+DTSTART:20231016
+DESCRIPTION:24 مهر روز ملی پارالمپیک
+END:VEVENT
+BEGIN:VEVENT
+UID:9867f429-2ceb-4fd7-90dc-05500255a604
+SUMMARY:24 مهر روز پیوند اولیا و مربیان
+DTSTAMP:20231016T040000Z
+DTSTART:20231016
+DESCRIPTION:24 مهر روز پیوند اولیا و مربیان
+END:VEVENT
+BEGIN:VEVENT
+UID:b5b43e9d-d955-4e2d-81af-5acc40e25b79
+SUMMARY:24 مهر سالروز واقعه به آتش کشیدن مسجد
+  جامع شهر کرمان به دست دژخیمان رژیم پهلوی
+  (1357 ه ش)
+DTSTAMP:20231016T040000Z
+DTSTART:20231016
+DESCRIPTION:24 مهر سالروز واقعه به آتش کشیدن
+  مسجد جامع شهر کرمان به دست دژخیمان رژیم
+  پهلوی (1357 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:cefa7ff7-3b3e-4a33-92cf-9f8a18891ccd
+SUMMARY:24 مهر روز جهانی غذا
+DTSTAMP:20231016T040000Z
+DTSTART:20231016
+DESCRIPTION:24 مهر روز جهانی غذا
+END:VEVENT
+BEGIN:VEVENT
+UID:43b38d66-3f42-49f7-8dfe-307d4e668b8a
+SUMMARY:26 مهر روز تربیت بدنی و ورزش
+DTSTAMP:20231018T040000Z
+DTSTART:20231018
+DESCRIPTION:26 مهر روز تربیت بدنی و ورزش
+END:VEVENT
+BEGIN:VEVENT
+UID:71e79835-47ba-4fe1-900e-9d9f02dd4cc9
+SUMMARY:27 مهر ولادت حضرت عبدالعظیم حسنی علیه
+  السلام
+DTSTAMP:20231019T040000Z
+DTSTART:20231019
+DESCRIPTION:27 مهر ولادت حضرت عبدالعظیم حسنی
+  علیه السلام
+END:VEVENT
+BEGIN:VEVENT
+UID:13125d6b-e6a1-4fcc-9a49-bebfcf46767f
+SUMMARY:29 مهر روز صادرات
+DTSTAMP:20231021T040000Z
+DTSTART:20231021
+DESCRIPTION:29 مهر روز صادرات
+END:VEVENT
+BEGIN:VEVENT
+UID:6c4ba7d2-dd2d-49af-a390-24fa5fd1c5c6
+SUMMARY:01 آبان شهادت مظلومانه آیت الله حاج
+  سید مصطفی خمینی (1356 ه ش)
+DTSTAMP:20231023T040000Z
+DTSTART:20231023
+DESCRIPTION:01 آبان شهادت مظلومانه آیت الله حاج
+  سید مصطفی خمینی (1356 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:8f8494c8-f032-4466-b239-5e7b7372b12c
+SUMMARY:01 آبان روز آمار و برنامه ریزی
+DTSTAMP:20231023T040000Z
+DTSTART:20231023
+DESCRIPTION:01 آبان روز آمار و برنامه ریزی
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f99824-504f-4ffb-b3a3-cad9393f335a
+SUMMARY:01 آبان ولادت حضرت امام حسن عسکری علیه
+  السلام (232 هـ ق)
+DTSTAMP:20231023T040000Z
+DTSTART:20231023
+DESCRIPTION:01 آبان ولادت حضرت امام حسن عسکری
+  علیه السلام (232 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:60fafe1d-64bf-433b-8528-9bea2a64aadd
+SUMMARY:03 آبان وفات حضرت معصومه سلام الله
+  علیها (201 هـ ق)
+DTSTAMP:20231025T040000Z
+DTSTART:20231025
+DESCRIPTION:03 آبان وفات حضرت معصومه سلام الله
+  علیها (201 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:1e9c76ab-a59c-4620-8c33-ff8220b8ac34
+SUMMARY:03 آبان میلاد حضرت امام حسن عسکری علیه
+  السلام به قولی (232 هـ ق)
+DTSTAMP:20231025T040000Z
+DTSTART:20231025
+DESCRIPTION:03 آبان میلاد حضرت امام حسن عسکری
+  علیه السلام به قولی (232 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:c702c67a-edd4-42f2-ae67-25f9c6b7c910
+SUMMARY:04 آبان اعتراض و افشاگری حضرت امام
+  خمینی (رحمة الله عليه) علیه پذیرش
+  کاپیتولاسیون(1343 ه ش)
+DTSTAMP:20231026T040000Z
+DTSTART:20231026
+DESCRIPTION:04 آبان اعتراض و افشاگری حضرت امام
+  خمینی (رحمة الله عليه) علیه پذیرش
+  کاپیتولاسیون(1343 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:bf908f54-0175-4174-8f8e-6addab27188b
+SUMMARY:08 آبان شهادت محمدحسین فهمیده(بسیجی 13
+  ساله)
+DTSTAMP:20231030T040000Z
+DTSTART:20231030
+DESCRIPTION:08 آبان شهادت محمدحسین فهمیده(بسیجی
+  13 ساله)
+END:VEVENT
+BEGIN:VEVENT
+UID:f95404f4-e7d3-4b32-af44-e3f751f1b2d0
+SUMMARY:08 آبان روز نوجوان و بسیج دانش آموزی
+DTSTAMP:20231030T040000Z
+DTSTART:20231030
+DESCRIPTION:08 آبان روز نوجوان و بسیج دانش آموزی
+END:VEVENT
+BEGIN:VEVENT
+UID:fd3f29e0-d35d-417c-a54b-f16217900f0b
+SUMMARY:08 آبان روز پدافند غیرعامل
+DTSTAMP:20231030T040000Z
+DTSTART:20231030
+DESCRIPTION:08 آبان روز پدافند غیرعامل
+END:VEVENT
+BEGIN:VEVENT
+UID:16e38295-f299-48a2-910a-3dd078e2369e
+SUMMARY:10 آبان شهادت آیت الله قاضی طباطبائی
+  اولین شهید محراب به دست منافقان(1358 ه ش)
+DTSTAMP:20231101T040000Z
+DTSTART:20231101
+DESCRIPTION:10 آبان شهادت آیت الله قاضی
+  طباطبائی اولین شهید محراب به دست
+  منافقان(1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:a4f7441b-6821-4df3-a350-aea31d7693a6
+SUMMARY:13 آبان تسخیر لانه جاسوسی آمریکا به
+  دست دانشجویان پیرو خط امام (1358 ه ش)
+DTSTAMP:20231104T040000Z
+DTSTART:20231104
+DESCRIPTION:13 آبان تسخیر لانه جاسوسی آمریکا به
+  دست دانشجویان پیرو خط امام (1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a5fa41-affe-4c83-b785-6ceb57c4e9e9
+SUMMARY:13 آبان روز ملی مبارزه با استکبار
+  جهانی
+DTSTAMP:20231104T040000Z
+DTSTART:20231104
+DESCRIPTION:13 آبان روز ملی مبارزه با استکبار
+  جهانی
+END:VEVENT
+BEGIN:VEVENT
+UID:63127182-0f9e-4427-a505-7aef3ef4de07
+SUMMARY:13 آبان روز دانش آموز
+DTSTAMP:20231104T040000Z
+DTSTART:20231104
+DESCRIPTION:13 آبان روز دانش آموز
+END:VEVENT
+BEGIN:VEVENT
+UID:07df69b8-6b29-497a-b131-ccf371f727fb
+SUMMARY:13 آبان تبعید حضرت امام خمینی (ره الله
+  علیه) از ایران به ترکیه (1343 ه ش)
+DTSTAMP:20231104T040000Z
+DTSTART:20231104
+DESCRIPTION:13 آبان تبعید حضرت امام خمینی (ره
+  الله علیه) از ایران به ترکیه (1343 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:4051fd4b-b0fe-4781-b6a5-ea2e1b3eb38e
+SUMMARY:14 آبان روز فرهنگ عمومی
+DTSTAMP:20231105T040000Z
+DTSTART:20231105
+DESCRIPTION:14 آبان روز فرهنگ عمومی
+END:VEVENT
+BEGIN:VEVENT
+UID:b955fcf0-cd2d-4dcd-baf4-a88d6cf32221
+SUMMARY:18 آبان روزکیفیت
+DTSTAMP:20231109T040000Z
+DTSTART:20231109
+DESCRIPTION:18 آبان روزکیفیت
+END:VEVENT
+BEGIN:VEVENT
+UID:6e981632-fa38-4087-942d-77828ff8184a
+SUMMARY:19 آبان روز جهانی علم در خدمت صلح و
+  توسعه
+DTSTAMP:20231110T040000Z
+DTSTART:20231110
+DESCRIPTION:19 آبان روز جهانی علم در خدمت صلح و
+  توسعه
+END:VEVENT
+BEGIN:VEVENT
+UID:aa562cff-9e4c-43fc-9d0d-b41934ff8b05
+SUMMARY:24 آبان روز کتاب، کتابخوانی و کتابدار
+DTSTAMP:20231115T040000Z
+DTSTART:20231115
+DESCRIPTION:24 آبان روز کتاب، کتابخوانی و
+  کتابدار
+END:VEVENT
+BEGIN:VEVENT
+UID:e7186b33-7bc0-4223-9c9b-30eff2941d18
+SUMMARY:24 آبان روز بزرگداشت آیت الله علامه
+  سید محمد حسین طباطبائی(1360 ه ش)
+DTSTAMP:20231115T040000Z
+DTSTART:20231115
+DESCRIPTION:24 آبان روز بزرگداشت آیت الله علامه
+  سید محمد حسین طباطبائی(1360 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:dedad5b2-6600-4510-a8d4-e44ec90e1b6b
+SUMMARY:26 آبان سالروز آزادسازی سوسنگرد
+DTSTAMP:20231117T040000Z
+DTSTART:20231117
+DESCRIPTION:26 آبان سالروز آزادسازی سوسنگرد
+END:VEVENT
+BEGIN:VEVENT
+UID:83c5d19a-13a9-410e-87a7-aff5a8914eb2
+SUMMARY:27 آبان ولادت حضرت زینب سلام الله
+  علیها (5 هـ ق) و روز پرستار
+DTSTAMP:20231118T040000Z
+DTSTART:20231118
+DESCRIPTION:27 آبان ولادت حضرت زینب سلام الله
+  علیها (5 هـ ق) و روز پرستار
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf5140f-cd8d-4d21-bdab-0d8725319a62
+SUMMARY:02 اسفند ولادت حضرت علی اکبر علیه
+  السلام (33 هـ ق) و روز جوان
+DTSTAMP:20240221T040000Z
+DTSTART:20240221
+DESCRIPTION:02 اسفند ولادت حضرت علی اکبر علیه
+  السلام (33 هـ ق) و روز جوان
+END:VEVENT
+BEGIN:VEVENT
+UID:5a7deb54-6c41-4d3a-afa9-c1e51a332751
+SUMMARY:03 اسفند کودتای انگلیسی رضاخان (1299 ه ش)
+DTSTAMP:20240222T040000Z
+DTSTART:20240222
+DESCRIPTION:03 اسفند کودتای انگلیسی رضاخان (1299 ه
+  ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:fa4c3cc1-9a11-447b-8a81-6c1c8bd3d482
+SUMMARY:05 اسفند روز بزرگداشت خواجه نصیرالدین
+  طوسی - روز مهندسی
+DTSTAMP:20240224T040000Z
+DTSTART:20240224
+DESCRIPTION:05 اسفند روز بزرگداشت خواجه
+  نصیرالدین طوسی - روز مهندسی
+END:VEVENT
+BEGIN:VEVENT
+UID:a4da40fd-f394-4bf1-b769-88960292c48a
+SUMMARY:تعطیل - 06 اسفند ولادت حضرت قائم عجل
+  الله تعالی فرجه(255 هـ ق)
+DTSTAMP:20240225T040000Z
+DTSTART:20240225
+DESCRIPTION:06 اسفند ولادت حضرت قائم عجل الله
+  تعالی فرجه(255 هـ ق)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:01ad67e7-63aa-4c95-a26e-58b3000c4cd1
+SUMMARY:06 اسفند روز جهانی مستضعفین
+DTSTAMP:20240225T040000Z
+DTSTART:20240225
+DESCRIPTION:06 اسفند روز جهانی مستضعفین
+END:VEVENT
+BEGIN:VEVENT
+UID:d6ec3bc2-d258-4c37-9762-524569614472
+SUMMARY:06 اسفند روز سربازان گمنام امام
+  زمان(عجل الله تعالی فرجه)
+DTSTAMP:20240225T040000Z
+DTSTART:20240225
+DESCRIPTION:06 اسفند روز سربازان گمنام امام
+  زمان(عجل الله تعالی فرجه)
+END:VEVENT
+BEGIN:VEVENT
+UID:5c90a273-c42a-4f09-8de0-d51205ec9935
+SUMMARY:08 اسفند روز امور تربیتی و تربیت
+  اسلامی
+DTSTAMP:20240227T040000Z
+DTSTART:20240227
+DESCRIPTION:08 اسفند روز امور تربیتی و تربیت
+  اسلامی
+END:VEVENT
+BEGIN:VEVENT
+UID:87c6196d-31be-4946-9aa6-ca31a3afa83e
+SUMMARY:08 اسفند روز بزرگداشت حکیم حاج
+  ملاهادی سبزواری
+DTSTAMP:20240227T040000Z
+DTSTART:20240227
+DESCRIPTION:08 اسفند روز بزرگداشت حکیم حاج
+  ملاهادی سبزواری
+END:VEVENT
+BEGIN:VEVENT
+UID:b00a12b1-75ac-40bf-98e1-427be3f7a60a
+SUMMARY:09 اسفند روزحمایت از حقوق مصرف
+  کنندگان
+DTSTAMP:20240228T040000Z
+DTSTART:20240228
+DESCRIPTION:09 اسفند روزحمایت از حقوق مصرف
+  کنندگان
+END:VEVENT
+BEGIN:VEVENT
+UID:d47a2d0f-4cfb-4539-a4b9-d6e658ccc764
+SUMMARY:10 اسفند غزوه بنی المصطلق(6 هـ ق)
+DTSTAMP:20240229T040000Z
+DTSTART:20240229
+DESCRIPTION:10 اسفند غزوه بنی المصطلق(6 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:4959b663-ca44-4602-a122-0f774f955aef
+SUMMARY:14 اسفند روز احسان و نیکوکاری
+DTSTAMP:20240304T040000Z
+DTSTART:20240304
+DESCRIPTION:14 اسفند روز احسان و نیکوکاری
+END:VEVENT
+BEGIN:VEVENT
+UID:108d90bc-79ab-47c2-86d6-3eefdca3b054
+SUMMARY:14 اسفند روز ترویج فرهنگ قرض‌الحسنه
+DTSTAMP:20240304T040000Z
+DTSTART:20240304
+DESCRIPTION:14 اسفند روز ترویج فرهنگ
+  قرض‌الحسنه
+END:VEVENT
+BEGIN:VEVENT
+UID:86653dc2-a9d2-4bae-a41d-50a6af29fd9a
+SUMMARY:15 اسفند روز درختکاری
+DTSTAMP:20240305T040000Z
+DTSTART:20240305
+DESCRIPTION:15 اسفند روز درختکاری
+END:VEVENT
+BEGIN:VEVENT
+UID:e933ac75-a50b-4407-8247-2645ea307764
+SUMMARY:18 اسفند روز بزرگداشت سیدجمال الدین
+  اسدآبادی
+DTSTAMP:20240308T040000Z
+DTSTART:20240308
+DESCRIPTION:18 اسفند روز بزرگداشت سیدجمال الدین
+  اسدآبادی
+END:VEVENT
+BEGIN:VEVENT
+UID:38366dfd-3896-4198-932b-259d74e7e78b
+SUMMARY:18 اسفند سالروز تأسیس کانونهای فرهنگی
+  هنری مساجد کشور
+DTSTAMP:20240308T040000Z
+DTSTART:20240308
+DESCRIPTION:18 اسفند سالروز تأسیس کانونهای
+  فرهنگی هنری مساجد کشور
+END:VEVENT
+BEGIN:VEVENT
+UID:12b1d832-a6ca-41e3-9e6c-7b27231d8a3f
+SUMMARY:20 اسفند روز راهیان نور
+DTSTAMP:20240310T040000Z
+DTSTART:20240310
+DESCRIPTION:20 اسفند روز راهیان نور
+END:VEVENT
+BEGIN:VEVENT
+UID:7c5362df-61b5-4c0f-9cef-c8694efd7332
+SUMMARY:21 اسفند روز بزرگداشت نظامی گنجوی
+DTSTAMP:20240311T040000Z
+DTSTART:20240311
+DESCRIPTION:21 اسفند روز بزرگداشت نظامی گنجوی
+END:VEVENT
+BEGIN:VEVENT
+UID:298562b5-a74d-4941-af5f-ceeac69db99f
+SUMMARY:22 اسفند روز بزرگداشت شهدا(سالروز
+  صدور فرمان حضرت امام خمینی(رحمة الله
+  عليه) مبنی بر تاسیس بنیاد شهید انقلاب
+  اسلامی -1358 ه ش)
+DTSTAMP:20240312T040000Z
+DTSTART:20240312
+DESCRIPTION:22 اسفند روز بزرگداشت شهدا(سالروز
+  صدور فرمان حضرت امام خمینی(رحمة الله
+  عليه) مبنی بر تاسیس بنیاد شهید انقلاب
+  اسلامی -1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:ed78320f-478d-405b-8fd1-19ad6e61161d
+SUMMARY:25 اسفند بمباران شیمیایی حلبچه توسط
+  ارتش بعث عراق (1366 ه ش)
+DTSTAMP:20240315T040000Z
+DTSTART:20240315
+DESCRIPTION:25 اسفند بمباران شیمیایی حلبچه توسط
+  ارتش بعث عراق (1366 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:246b1c67-5511-4f1d-a225-0537023ba042
+SUMMARY:25 اسفند روز بزرگداشت پروین اعتصامی
+DTSTAMP:20240315T040000Z
+DTSTART:20240315
+DESCRIPTION:25 اسفند روز بزرگداشت پروین اعتصامی
+END:VEVENT
+BEGIN:VEVENT
+UID:7eef693e-0999-4c5b-a03c-ffb198b4578c
+SUMMARY:تعطیل - 29 اسفند روز ملی شدن صنعت نفت
+  ایران(1329 ه ش)
+DTSTAMP:20240319T040000Z
+DTSTART:20240319
+DESCRIPTION:29 اسفند روز ملی شدن صنعت نفت
+  ایران(1329 ه ش)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:289a07f6-ae0f-4e9d-864d-7ba3d96d1c01
+SUMMARY:تعطیل - 01 فروردین آخرین روز سال
+DTSTAMP:20240320T040000Z
+DTSTART:20240320
+DESCRIPTION:01 فروردین آخرین روز سال
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:d88ea57c-89b4-4103-bcbb-f0aaad0fb8ab
+SUMMARY:01 فروردین وفات حضرت خدیجه کبری سلام
+  الله علیها (3 سال قبل از هجرت)
+DTSTAMP:20240320T040000Z
+DTSTART:20240320
+DESCRIPTION:01 فروردین وفات حضرت خدیجه کبری
+  سلام الله علیها (3 سال قبل از هجرت)
+END:VEVENT
+BEGIN:VEVENT
+UID:93ed5f67-ffb1-465a-aaac-69d65487c701
+SUMMARY:تعطیل - 01 فروردین آغاز نوروز
+DTSTAMP:20230321T040000Z
+DTSTART:20230321
+DESCRIPTION:01 فروردین آغاز نوروز
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b08884-b95d-46bf-ba1d-bce59701eaf4
+SUMMARY:01 فروردین سالروز مبارزه با پدیده شوم
+  استعمار نژادی
+DTSTAMP:20230321T040000Z
+DTSTART:20230321
+DESCRIPTION:01 فروردین سالروز مبارزه با پدیده
+  شوم استعمار نژادی
+END:VEVENT
+BEGIN:VEVENT
+UID:38ebc296-1c82-4d5a-9136-5ee1c588b0d1
+SUMMARY:تعطیل - 02 فروردین عید نوروز
+DTSTAMP:20230322T040000Z
+DTSTART:20230322
+DESCRIPTION:02 فروردین عید نوروز
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:4fedf0bb-c779-425e-9c5a-6a7ecc41007e
+SUMMARY:02 فروردین هجوم ماموران ستم شاهی
+  پهلوی به مدرسه فیضیه قم(1342 ه ش)
+DTSTAMP:20230322T040000Z
+DTSTART:20230322
+DESCRIPTION:02 فروردین هجوم ماموران ستم شاهی
+  پهلوی به مدرسه فیضیه قم(1342 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:dff056f2-0496-4f1e-811c-30f210cbbf25
+SUMMARY:02 فروردین آغاز عملیات فتح المبین(1361 ه
+  ش)
+DTSTAMP:20230322T040000Z
+DTSTART:20230322
+DESCRIPTION:02 فروردین آغاز عملیات فتح
+  المبین(1361 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:f18fe151-591f-48da-9bee-0977354156c1
+SUMMARY:02 فروردین روز جهانی آب
+DTSTAMP:20230322T040000Z
+DTSTART:20230322
+DESCRIPTION:02 فروردین روز جهانی آب
+END:VEVENT
+BEGIN:VEVENT
+UID:299392cb-5714-41cc-acef-6dfaa5595f05
+SUMMARY:تعطیل - 03 فروردین عید نوروز
+DTSTAMP:20230323T040000Z
+DTSTART:20230323
+DESCRIPTION:03 فروردین عید نوروز
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b14dafa-c73b-4110-b9a3-8fbb1dacb187
+SUMMARY:03 فروردین روز جهانی هواشناسی
+DTSTAMP:20230323T040000Z
+DTSTART:20230323
+DESCRIPTION:03 فروردین روز جهانی هواشناسی
+END:VEVENT
+BEGIN:VEVENT
+UID:f4604c30-a0a7-4e81-8a75-d3d0ad5d6d22
+SUMMARY:تعطیل - 04 فروردین عید نوروز
+DTSTAMP:20230324T040000Z
+DTSTART:20230324
+DESCRIPTION:04 فروردین عید نوروز
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce28fa2d-b8fc-42f8-b416-77f3472f5792
+SUMMARY:06 فروردین ولادت زرتشت
+DTSTAMP:20230326T040000Z
+DTSTART:20230326
+DESCRIPTION:06 فروردین ولادت زرتشت
+END:VEVENT
+BEGIN:VEVENT
+UID:c37fa3b6-8ed9-4bee-ada8-614528168383
+SUMMARY:07 فروردین روز هنرهای نمایشی
+DTSTAMP:20230327T040000Z
+DTSTART:20230327
+DESCRIPTION:07 فروردین روز هنرهای نمایشی
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5cb3af-647d-42ab-bc55-4c97a7ae5ef9
+SUMMARY:تعطیل - 12 فروردین روز جمهوری اسلامی
+  ایران
+DTSTAMP:20230401T040000Z
+DTSTART:20230401
+DESCRIPTION:12 فروردین روز جمهوری اسلامی ایران
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb98ea4-44e0-4807-a583-9c4456409042
+SUMMARY:12 فروردین وفات حضرت خدیجه کبری سلام
+  الله علیها (3 سال قبل از هجرت)
+DTSTAMP:20230401T040000Z
+DTSTART:20230401
+DESCRIPTION:12 فروردین وفات حضرت خدیجه کبری
+  سلام الله علیها (3 سال قبل از هجرت)
+END:VEVENT
+BEGIN:VEVENT
+UID:2d161f2c-9668-479f-b826-9b90af5d98d1
+SUMMARY:تعطیل - 13 فروردین روز طبیعت
+DTSTAMP:20230402T040000Z
+DTSTART:20230402
+DESCRIPTION:13 فروردین روز طبیعت
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:e849c754-599c-4651-a311-a0315f990e29
+SUMMARY:13 فروردین روز جهانی کتاب کودک
+DTSTAMP:20230402T040000Z
+DTSTART:20230402
+DESCRIPTION:13 فروردین روز جهانی کتاب کودک
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c90865-29d1-4c50-a85a-898665ca2ec5
+SUMMARY:15 فروردین روز ذخایر ژنتیکی و زیستی
+DTSTAMP:20230404T040000Z
+DTSTART:20230404
+DESCRIPTION:15 فروردین روز ذخایر ژنتیکی و زیستی
+END:VEVENT
+BEGIN:VEVENT
+UID:904b6efa-c975-458f-b7d0-d645838bc4f7
+SUMMARY:17 فروردین ولادت حضرت امام حسن مجتبی
+  علیه السلام (3هـ ق) و روز اکرام
+DTSTAMP:20230406T040000Z
+DTSTART:20230406
+DESCRIPTION:17 فروردین ولادت حضرت امام حسن
+  مجتبی علیه السلام (3هـ ق) و روز اکرام
+END:VEVENT
+BEGIN:VEVENT
+UID:d06cd80b-1b2d-499c-9f22-7a2db41dc337
+SUMMARY:17 فروردین روز اکرام و تکریم خیرین
+DTSTAMP:20230406T040000Z
+DTSTART:20230406
+DESCRIPTION:17 فروردین روز اکرام و تکریم خیرین
+END:VEVENT
+BEGIN:VEVENT
+UID:dc615d2c-8c03-4143-84ee-26b80d03a937
+SUMMARY:18 فروردین روز سلامتی
+DTSTAMP:20230407T040000Z
+DTSTART:20230407
+DESCRIPTION:18 فروردین روز سلامتی
+END:VEVENT
+BEGIN:VEVENT
+UID:8566f034-26b3-470e-98c5-85538d99e768
+SUMMARY:19 فروردین شهادت آیت الله سید محمد
+  باقر صدر و خواهر ایشان بنت الهدی توسط
+  حکومت بعث عراق(1359 ه ش)
+DTSTAMP:20230408T040000Z
+DTSTART:20230408
+DESCRIPTION:19 فروردین شهادت آیت الله سید محمد
+  باقر صدر و خواهر ایشان بنت الهدی توسط
+  حکومت بعث عراق(1359 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:2d9ca883-eb73-421e-9f94-9b31e15aed5f
+SUMMARY:19 فروردین معراج رسول اکرم (صلی الله
+  علیه و آله)(6 ماه قبل از هجرت)
+DTSTAMP:20230408T040000Z
+DTSTART:20230408
+DESCRIPTION:19 فروردین معراج رسول اکرم (صلی الله
+  علیه و آله)(6 ماه قبل از هجرت)
+END:VEVENT
+BEGIN:VEVENT
+UID:e70640a1-1c9c-4828-8bb3-aa894f57d6de
+SUMMARY:19 فروردین جنگ بدر(2 هـ ق)
+DTSTAMP:20230408T040000Z
+DTSTART:20230408
+DESCRIPTION:19 فروردین جنگ بدر(2 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:f15c0edc-2ffb-4a57-a0cb-cf66fbb68f6c
+SUMMARY:20 فروردین روز ملی فناوری هسته ای
+DTSTAMP:20230409T040000Z
+DTSTART:20230409
+DESCRIPTION:20 فروردین روز ملی فناوری هسته ای
+END:VEVENT
+BEGIN:VEVENT
+UID:4692c1ed-1417-4630-9931-7a82e6eac81b
+SUMMARY:20 فروردین روز هنر انقلاب
+  اسلامی(سالروز شهادت سید مرتضی آوینی 1372 ه
+  ش)
+DTSTAMP:20230409T040000Z
+DTSTART:20230409
+DESCRIPTION:20 فروردین روز هنر انقلاب
+  اسلامی(سالروز شهادت سید مرتضی آوینی 1372 ه
+  ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:df3770d1-27dd-4ea7-bc67-e7837782125a
+SUMMARY:20 فروردین اولین شب قدر
+DTSTAMP:20230409T040000Z
+DTSTART:20230409
+DESCRIPTION:20 فروردین اولین شب قدر
+END:VEVENT
+BEGIN:VEVENT
+UID:84d859b3-1059-4fc8-8425-236dbaa7a724
+SUMMARY:21 فروردین شهادت امیر سپهبد علی صیاد
+  شیرازی(1378 ه ش)
+DTSTAMP:20230410T040000Z
+DTSTART:20230410
+DESCRIPTION:21 فروردین شهادت امیر سپهبد علی
+  صیاد شیرازی(1378 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:5acad07e-6e17-4bbb-8b6a-8e83746f265c
+SUMMARY:21 فروردین سالروز افتتاح حساب شماره 100
+  به فرمان حضرت امام(رحمة الله عليه) و
+  تأسیس بنیاد مسکن انقلاب اسلامی (1358 ه ش)
+DTSTAMP:20230410T040000Z
+DTSTART:20230410
+DESCRIPTION:21 فروردین سالروز افتتاح حساب شماره
+  100 به فرمان حضرت امام(رحمة الله عليه) و
+  تأسیس بنیاد مسکن انقلاب اسلامی (1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:98fe6f7b-2748-4fbe-a1ef-cdec3aa466fe
+SUMMARY:21 فروردین ضربت خوردن حضرت علی علیه
+  السلام (40 ق)
+DTSTAMP:20230410T040000Z
+DTSTART:20230410
+DESCRIPTION:21 فروردین ضربت خوردن حضرت علی علیه
+  السلام (40 ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:9864eafc-4bac-402b-abeb-7696241dcc16
+SUMMARY:22 فروردین فتح مکه(8 هـ ق)
+DTSTAMP:20230411T040000Z
+DTSTART:20230411
+DESCRIPTION:22 فروردین فتح مکه(8 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:98842315-c90e-4c4f-a74b-e079692702a7
+SUMMARY:22 فروردین دومین شب قدر
+DTSTAMP:20230411T040000Z
+DTSTART:20230411
+DESCRIPTION:22 فروردین دومین شب قدر
+END:VEVENT
+BEGIN:VEVENT
+UID:5135c963-c532-4545-a324-936cb4859915
+SUMMARY:23 فروردین روز دندانپزشکی
+DTSTAMP:20230412T040000Z
+DTSTART:20230412
+DESCRIPTION:23 فروردین روز دندانپزشکی
+END:VEVENT
+BEGIN:VEVENT
+UID:cbbbb564-05e0-401d-bf55-4cb1f412990a
+SUMMARY:تعطیل - 23 فروردین شهادت حضرت
+  امیرالمومنین علی علیه السلام (40 هـ ق)
+DTSTAMP:20230412T040000Z
+DTSTART:20230412
+DESCRIPTION:23 فروردین شهادت حضرت امیرالمومنین
+  علی علیه السلام (40 هـ ق)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2dcb1c6-57a0-474b-b655-a5a52dacdade
+SUMMARY:24 فروردین سومین شب قدر
+DTSTAMP:20230413T040000Z
+DTSTART:20230413
+DESCRIPTION:24 فروردین سومین شب قدر
+END:VEVENT
+BEGIN:VEVENT
+UID:0ca10fee-01d9-4fd3-91f4-4b9047a7cba8
+SUMMARY:25 فروردین روز بزرگداشت عطار نیشابوری
+DTSTAMP:20230414T040000Z
+DTSTART:20230414
+DESCRIPTION:25 فروردین روز بزرگداشت عطار
+  نیشابوری
+END:VEVENT
+BEGIN:VEVENT
+UID:f17be4ed-ad39-4c2f-987a-fc56b8f04ec0
+SUMMARY:26 فروردین روز جهانی قدس(آخرین جمعه
+  ماه رمضان)
+DTSTAMP:20230415T040000Z
+DTSTART:20230415
+DESCRIPTION:26 فروردین روز جهانی قدس(آخرین جمعه
+  ماه رمضان)
+END:VEVENT
+BEGIN:VEVENT
+UID:fec8bdfe-a8f9-4b45-b173-7b04a36e5840
+SUMMARY:29 فروردین روز ارتش جمهوری اسلامی و
+  نیروی زمینی
+DTSTAMP:20230418T040000Z
+DTSTART:20230418
+DESCRIPTION:29 فروردین روز ارتش جمهوری اسلامی و
+  نیروی زمینی
+END:VEVENT
+BEGIN:VEVENT
+UID:3789241c-bf28-4371-90ba-b728fc49da21
+SUMMARY:04 مرداد روز بزرگداشت شیخ صفی‌الدین
+  اردبیلی
+DTSTAMP:20230726T040000Z
+DTSTART:20230726
+DESCRIPTION:04 مرداد روز بزرگداشت شیخ
+  صفی‌الدین اردبیلی
+END:VEVENT
+BEGIN:VEVENT
+UID:db002ba9-6f26-4c5e-a025-45a4a6da4d67
+SUMMARY:05 مرداد سالروز عملیات افتخار آفرین
+  مرصاد(1367 ه ش)
+DTSTAMP:20230727T040000Z
+DTSTART:20230727
+DESCRIPTION:05 مرداد سالروز عملیات افتخار آفرین
+  مرصاد(1367 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:546d50d0-f633-4b5f-a517-57b09a74013f
+SUMMARY:تعطیل - 05 مرداد تاسوعای حسینی
+DTSTAMP:20230727T040000Z
+DTSTART:20230727
+DESCRIPTION:05 مرداد تاسوعای حسینی
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:64f8fd5d-8e92-4823-819d-cdc275c8dd7e
+SUMMARY:06 مرداد روز کارآفرینی و آموزش های فنی
+  و حرفه ای
+DTSTAMP:20230728T040000Z
+DTSTART:20230728
+DESCRIPTION:06 مرداد روز کارآفرینی و آموزش های
+  فنی و حرفه ای
+END:VEVENT
+BEGIN:VEVENT
+UID:3c8e7edf-bf2c-4a31-9d98-f1e940462894
+SUMMARY:06 مرداد روز بزرگداشت ابوالفضل بیهقی
+DTSTAMP:20230728T040000Z
+DTSTART:20230728
+DESCRIPTION:06 مرداد روز بزرگداشت ابوالفضل
+  بیهقی
+END:VEVENT
+BEGIN:VEVENT
+UID:7bffbb58-9ddb-4678-aa5b-88138accc047
+SUMMARY:تعطیل - 06 مرداد عاشورای حسینی(شهادت
+  امام حسین علیه السلام و اصحاب آن حضرت(61
+  هـ ق))
+DTSTAMP:20230728T040000Z
+DTSTART:20230728
+DESCRIPTION:06 مرداد عاشورای حسینی(شهادت امام
+  حسین علیه السلام و اصحاب آن حضرت(61 هـ ق))
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1c31866-4409-4e70-b392-24081236d94e
+SUMMARY:07 مرداد روز تجلیل از اسرا و مفقودان
+DTSTAMP:20230729T040000Z
+DTSTART:20230729
+DESCRIPTION:07 مرداد روز تجلیل از اسرا و مفقودان
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed17af8-5a3e-4f2f-9095-89b5d32dccb9
+SUMMARY:08 مرداد روز بزرگداشت شیخ شهاب الدین
+  سهروردی(شیخ اشراق)
+DTSTAMP:20230730T040000Z
+DTSTART:20230730
+DESCRIPTION:08 مرداد روز بزرگداشت شیخ شهاب
+  الدین سهروردی(شیخ اشراق)
+END:VEVENT
+BEGIN:VEVENT
+UID:63d457c0-087e-45bc-af2d-7190b194c24c
+SUMMARY:08 مرداد ورود اسیران کربلا به کوفه(61
+  هـ ق)
+DTSTAMP:20230730T040000Z
+DTSTART:20230730
+DESCRIPTION:08 مرداد ورود اسیران کربلا به کوفه(61
+  هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:a7a53418-e0f0-4ce0-8d4d-349cf410ac42
+SUMMARY:08 مرداد شهادت حضرت امام زین العابدین
+  علیه السلام (95 هـ ق)
+DTSTAMP:20230730T040000Z
+DTSTART:20230730
+DESCRIPTION:08 مرداد شهادت حضرت امام زین
+  العابدین علیه السلام (95 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:b68af1e7-8f0f-447b-aa6a-afc7baca5f10
+SUMMARY:09 مرداد روز اهدای خون
+DTSTAMP:20230731T040000Z
+DTSTART:20230731
+DESCRIPTION:09 مرداد روز اهدای خون
+END:VEVENT
+BEGIN:VEVENT
+UID:af52ef1d-961f-4d09-9b3c-72874045b915
+SUMMARY:10 مرداد روز جهانی شیر مادر
+DTSTAMP:20230801T040000Z
+DTSTART:20230801
+DESCRIPTION:10 مرداد روز جهانی شیر مادر
+END:VEVENT
+BEGIN:VEVENT
+UID:67ef18f8-d9a5-4205-82c3-01250c4f3495
+SUMMARY:11 مرداد شهادت آیت الله شیخ فضل الله
+  نوری(1288 ه ش)
+DTSTAMP:20230802T040000Z
+DTSTART:20230802
+DESCRIPTION:11 مرداد شهادت آیت الله شیخ فضل الله
+  نوری(1288 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:52743002-c820-478a-b6cf-e23b8cb59214
+SUMMARY:14 مرداد صدور فرمان مشروطیت(1285 ه ش)
+DTSTAMP:20230805T040000Z
+DTSTART:20230805
+DESCRIPTION:14 مرداد صدور فرمان مشروطیت(1285 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:a86e7405-3c13-4343-8667-1f2eee68222b
+SUMMARY:14 مرداد روز حقوق بشر اسلامی و کرامت
+  انسانی
+DTSTAMP:20230805T040000Z
+DTSTART:20230805
+DESCRIPTION:14 مرداد روز حقوق بشر اسلامی و کرامت
+  انسانی
+END:VEVENT
+BEGIN:VEVENT
+UID:919d8f02-1b2c-4a55-b61e-f06d10101c8d
+SUMMARY:15 مرداد سالروز شهادت امیر سرلشگر
+  خلبان عباس بابائی
+DTSTAMP:20230806T040000Z
+DTSTART:20230806
+DESCRIPTION:15 مرداد سالروز شهادت امیر سرلشگر
+  خلبان عباس بابائی
+END:VEVENT
+BEGIN:VEVENT
+UID:923a31fe-8d3c-48f6-9951-ae3b7d913e4d
+SUMMARY:15 مرداد حرکت اسرای کربلا به طرف شام (61
+  هـ ق)
+DTSTAMP:20230806T040000Z
+DTSTART:20230806
+DESCRIPTION:15 مرداد حرکت اسرای کربلا به طرف شام
+  (61 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:5dd28ab5-502e-4527-8c6d-6e2a6fb58c75
+SUMMARY:15 مرداد انفجار بمب اتمی آمریکا در
+  هیروشیما با بیش از 160 هزار کشته و
+  مجروح(1945 میلادی)
+DTSTAMP:20230806T040000Z
+DTSTART:20230806
+DESCRIPTION:15 مرداد انفجار بمب اتمی آمریکا در
+  هیروشیما با بیش از 160 هزار کشته و
+  مجروح(1945 میلادی)
+END:VEVENT
+BEGIN:VEVENT
+UID:e14a45fb-cd3a-469b-953e-f7f727a08e95
+SUMMARY:16 مرداد تشکیل جهاد دانشگاهی(1359 ه ش)
+DTSTAMP:20230807T040000Z
+DTSTART:20230807
+DESCRIPTION:16 مرداد تشکیل جهاد دانشگاهی(1359 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:71c498f2-3cd3-48af-92ab-b6b8a3e3b3db
+SUMMARY:17 مرداد روز خبرنگار
+DTSTAMP:20230808T040000Z
+DTSTART:20230808
+DESCRIPTION:17 مرداد روز خبرنگار
+END:VEVENT
+BEGIN:VEVENT
+UID:9191c7c4-7068-4967-93bc-9ef321f61cc0
+SUMMARY:18 مرداد روز بزرگداشت شهدای مدافع حرم
+DTSTAMP:20230809T040000Z
+DTSTART:20230809
+DESCRIPTION:18 مرداد روز بزرگداشت شهدای مدافع
+  حرم
+END:VEVENT
+BEGIN:VEVENT
+UID:3a463d5f-56e7-43b0-a906-9b038f76721d
+SUMMARY:21 مرداد روز حمایت از صنایع کوچک
+DTSTAMP:20230812T040000Z
+DTSTART:20230812
+DESCRIPTION:21 مرداد روز حمایت از صنایع کوچک
+END:VEVENT
+BEGIN:VEVENT
+UID:b4ba06a6-c04c-43ad-b574-274878d0614d
+SUMMARY:21 مرداد شهادت حضرت امام زین العابدین
+  علیه السلام (95 هـ ق - به روایتی)
+DTSTAMP:20230812T040000Z
+DTSTART:20230812
+DESCRIPTION:21 مرداد شهادت حضرت امام زین
+  العابدین علیه السلام (95 هـ ق - به روایتی)
+END:VEVENT
+BEGIN:VEVENT
+UID:a09bc596-25af-4043-9036-d5d86a43eb16
+SUMMARY:22 مرداد روز تشکل ها و مشارکت اجتماعی
+DTSTAMP:20230813T040000Z
+DTSTART:20230813
+DESCRIPTION:22 مرداد روز تشکل ها و مشارکت
+  اجتماعی
+END:VEVENT
+BEGIN:VEVENT
+UID:60718468-23c1-45de-84e3-9d4dda5e1571
+SUMMARY:23 مرداد روز مقاومت اسلامی
+DTSTAMP:20230814T040000Z
+DTSTART:20230814
+DESCRIPTION:23 مرداد روز مقاومت اسلامی
+END:VEVENT
+BEGIN:VEVENT
+UID:401eef99-a32c-4fa5-8640-29ac6ce22e97
+SUMMARY:26 مرداد آغاز بازگشت آزادگان به میهن
+  اسلامی(1369 ه ش)
+DTSTAMP:20230817T040000Z
+DTSTART:20230817
+DESCRIPTION:26 مرداد آغاز بازگشت آزادگان به
+  میهن اسلامی(1369 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6ff919-454a-4605-9034-e555da59647f
+SUMMARY:28 مرداد کودتای آمریکا برای
+  بازگرداندن شاه(1332 ه ش)
+DTSTAMP:20230819T040000Z
+DTSTART:20230819
+DESCRIPTION:28 مرداد کودتای آمریکا برای
+  بازگرداندن شاه(1332 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:123e02c6-2a16-473d-9ccd-5ba16f2f4a12
+SUMMARY:28 مرداد گشایش مجلس خبرگان برای بررسی
+  نهایی قانون اساسی جمهوری اسلامی ایران
+  (1358 ه ش)
+DTSTAMP:20230819T040000Z
+DTSTART:20230819
+DESCRIPTION:28 مرداد گشایش مجلس خبرگان برای
+  بررسی نهایی قانون اساسی جمهوری اسلامی
+  ایران (1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:1c818694-db9d-4d53-a186-ed56fe81ff5b
+SUMMARY:29 مرداد ولادت حضرت امام محمدباقر
+  علیه السلام( 57 هـ ق - به روایتی)
+DTSTAMP:20230820T040000Z
+DTSTART:20230820
+DESCRIPTION:29 مرداد ولادت حضرت امام محمدباقر
+  علیه السلام( 57 هـ ق - به روایتی)
+END:VEVENT
+BEGIN:VEVENT
+UID:4511250a-e45b-45a5-a9d4-4ae1788c7ddc
+SUMMARY:30 مرداد روز بزرگداشت علامه مجلسی
+DTSTAMP:20230821T040000Z
+DTSTART:20230821
+DESCRIPTION:30 مرداد روز بزرگداشت علامه مجلسی
+END:VEVENT
+BEGIN:VEVENT
+UID:f9226655-f96a-4caf-a274-90a6292002f8
+SUMMARY:30 مرداد روز جهانی مسجد
+DTSTAMP:20230821T040000Z
+DTSTART:20230821
+DESCRIPTION:30 مرداد روز جهانی مسجد
+END:VEVENT
+BEGIN:VEVENT
+UID:8b12a2b9-2855-4a6f-96ee-eb56b84196d9
+SUMMARY:31 مرداد روز صنعت دفاعی
+DTSTAMP:20230822T040000Z
+DTSTART:20230822
+DESCRIPTION:31 مرداد روز صنعت دفاعی
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d200b5-40c8-43d5-836c-fac44035a6e3
+SUMMARY:31 مرداد شهادت حضرت رقیه س دختر سه
+  ساله امام حسین علیه السلام(61 هـ ق)
+DTSTAMP:20230822T040000Z
+DTSTART:20230822
+DESCRIPTION:31 مرداد شهادت حضرت رقیه س دختر سه
+  ساله امام حسین علیه السلام(61 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:f9484a2b-d565-4785-9f4a-efe156534044
+SUMMARY:01 تیر روز تبلیغ و اطلاع رسانی
+  دینی(سالروز صدور فرمان حضرت امام خمینی
+  (رحمة الله عليه) بر تاسیس سازمان تبلیغات
+  اسلامی-1360 ه ش)
+DTSTAMP:20230622T040000Z
+DTSTART:20230622
+DESCRIPTION:01 تیر روز تبلیغ و اطلاع رسانی
+  دینی(سالروز صدور فرمان حضرت امام خمینی
+  (رحمة الله عليه) بر تاسیس سازمان تبلیغات
+  اسلامی-1360 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:4edb9d10-f2cb-4fd8-ab63-a286637faac9
+SUMMARY:01 تیر روز اصناف
+DTSTAMP:20230622T040000Z
+DTSTART:20230622
+DESCRIPTION:01 تیر روز اصناف
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4907f1-80b1-4187-b411-37f6e24ee97d
+SUMMARY:01 تیر ورود پیامبر اکرم (صلی الله علیه
+  و آله)به مکه در سفر حجه الوداع(10 هـ ق)
+DTSTAMP:20230622T040000Z
+DTSTART:20230622
+DESCRIPTION:01 تیر ورود پیامبر اکرم (صلی الله
+  علیه و آله)به مکه در سفر حجه الوداع(10 هـ
+  ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:e71ed372-225e-4ea3-88f6-a880e116a7d2
+SUMMARY:04 تیر شهادت مظلومانه زائران خانه خدا
+  به دست ماموران آل سعود (1366 ه ش برابر با 6
+  ذی الحجه 1407 ه ق)
+DTSTAMP:20230625T040000Z
+DTSTART:20230625
+DESCRIPTION:04 تیر شهادت مظلومانه زائران خانه
+  خدا به دست ماموران آل سعود (1366 ه ش برابر
+  با 6 ذی الحجه 1407 ه ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:0692b178-0257-413e-a1f3-d4cc9a01325d
+SUMMARY:05 تیر شهادت امام محمد باقر علیه
+  السلام (114 هـ ق)
+DTSTAMP:20230626T040000Z
+DTSTART:20230626
+DESCRIPTION:05 تیر شهادت امام محمد باقر علیه
+  السلام (114 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:2ef01cb1-6697-4092-a70b-462e2d5d4ada
+SUMMARY:05 تیر روز جهانی مبارزه با مواد مخدر
+DTSTAMP:20230626T040000Z
+DTSTART:20230626
+DESCRIPTION:05 تیر روز جهانی مبارزه با مواد مخدر
+END:VEVENT
+BEGIN:VEVENT
+UID:78dfc3d0-1915-43e3-a793-628b8bc85e28
+SUMMARY:06 تیر حرکت امام حسین علیه السلام از
+  مکه بسوی کربلا (60 هـ ق)
+DTSTAMP:20230627T040000Z
+DTSTART:20230627
+DESCRIPTION:06 تیر حرکت امام حسین علیه السلام از
+  مکه بسوی کربلا (60 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:451da8f5-6a96-45c7-a7c6-8983abd370d2
+SUMMARY:07 تیر شهادت مظلومانه آیت الله دکتر
+  بهشتی و 72 تن از یاران امام خمینی(رحمة
+  الله عليه) با انفجار بمب به دست منافقان
+  در دفتر مرکزی حزب جمهوری اسلامی(1360 ه ش)
+DTSTAMP:20230628T040000Z
+DTSTART:20230628
+DESCRIPTION:07 تیر شهادت مظلومانه آیت الله دکتر
+  بهشتی و 72 تن از یاران امام خمینی(رحمة
+  الله عليه) با انفجار بمب به دست منافقان
+  در دفتر مرکزی حزب جمهوری اسلامی(1360 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:9d369817-4a85-4816-9f78-c9689276aa2d
+SUMMARY:07 تیر روز قوه قضائیه
+DTSTAMP:20230628T040000Z
+DTSTART:20230628
+DESCRIPTION:07 تیر روز قوه قضائیه
+END:VEVENT
+BEGIN:VEVENT
+UID:45f84385-565e-40a4-b706-f4f459db7202
+SUMMARY:07 تیر سالروز بمباران شیمیایی شهر
+  سردشت (1366 ه ش)
+DTSTAMP:20230628T040000Z
+DTSTART:20230628
+DESCRIPTION:07 تیر سالروز بمباران شیمیایی شهر
+  سردشت (1366 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:536fdbd4-5f19-4086-b027-916d8dc75c84
+SUMMARY:07 تیر روز عرفه
+DTSTAMP:20230628T040000Z
+DTSTART:20230628
+DESCRIPTION:07 تیر روز عرفه
+END:VEVENT
+BEGIN:VEVENT
+UID:26040d98-2358-4ebb-acda-3c4760f44e72
+SUMMARY:07 تیر شهادت مسلم بن عقیل و هانی ابن
+  عروه(60 هـ ق)
+DTSTAMP:20230628T040000Z
+DTSTART:20230628
+DESCRIPTION:07 تیر شهادت مسلم بن عقیل و هانی ابن
+  عروه(60 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:d04a0d52-c3c9-43fe-b008-141703368fdf
+SUMMARY:08 تیر روز مبارزه با سلاح های شیمیایی
+  و میکروبی
+DTSTAMP:20230629T040000Z
+DTSTART:20230629
+DESCRIPTION:08 تیر روز مبارزه با سلاح های
+  شیمیایی و میکروبی
+END:VEVENT
+BEGIN:VEVENT
+UID:252b1d59-7f79-4e93-8589-c1318ddd0ed0
+SUMMARY:تعطیل - 08 تیر عید سعید قربان
+DTSTAMP:20230629T040000Z
+DTSTART:20230629
+DESCRIPTION:08 تیر عید سعید قربان
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb29871-7cc8-40b8-bea3-20dfbd48540e
+SUMMARY:10 تیر روز صنعت و معدن
+DTSTAMP:20230701T040000Z
+DTSTART:20230701
+DESCRIPTION:10 تیر روز صنعت و معدن
+END:VEVENT
+BEGIN:VEVENT
+UID:845fa9b2-6bd8-409c-ab15-d5c4158bd6b1
+SUMMARY:10 تیر روز آزادسازی شهر مهران
+DTSTAMP:20230701T040000Z
+DTSTART:20230701
+DESCRIPTION:10 تیر روز آزادسازی شهر مهران
+END:VEVENT
+BEGIN:VEVENT
+UID:6afd2e8e-bc7f-4e30-97af-a2aca34cfb48
+SUMMARY:10 تیر روز بزرگداشت صائب تبریزی
+DTSTAMP:20230701T040000Z
+DTSTART:20230701
+DESCRIPTION:10 تیر روز بزرگداشت صائب تبریزی
+END:VEVENT
+BEGIN:VEVENT
+UID:df2d7088-19dd-498e-8c23-4ee26ecfb729
+SUMMARY:11 تیر شهادت آیت الله صدوقی چهارمین
+  شهید محراب به دست منافقین(1361 ه ش)
+DTSTAMP:20230702T040000Z
+DTSTART:20230702
+DESCRIPTION:11 تیر شهادت آیت الله صدوقی چهارمین
+  شهید محراب به دست منافقین(1361 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:a3732454-2b23-48ae-88fe-333b4fcbe18e
+SUMMARY:12 تیر حمله دد منشانه ناوگان آمریکای
+  جنایتکار به هواپیمای مسافربری جمهوری
+  اسلامی ایران (1367 ه ش)
+DTSTAMP:20230703T040000Z
+DTSTART:20230703
+DESCRIPTION:12 تیر حمله دد منشانه ناوگان
+  آمریکای جنایتکار به هواپیمای مسافربری
+  جمهوری اسلامی ایران (1367 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:082e14a6-ef2a-45fc-a54d-b08db1d3582a
+SUMMARY:12 تیر روز بزرگداشت علامه امینی(1349 ه ش)
+DTSTAMP:20230703T040000Z
+DTSTART:20230703
+DESCRIPTION:12 تیر روز بزرگداشت علامه امینی(1349 ه
+  ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:51e68313-6e29-4f0c-b10e-835c919b1af6
+SUMMARY:12 تیر روز افشای حقوق بشر آمریکایی
+DTSTAMP:20230703T040000Z
+DTSTART:20230703
+DESCRIPTION:12 تیر روز افشای حقوق بشر آمریکایی
+END:VEVENT
+BEGIN:VEVENT
+UID:df3c70e4-ef70-43fc-a329-bd9b24c664ab
+SUMMARY:13 تیر ولادت حضرت امام علی النقی
+  الهادی علیه السلام (212 هـ ق)
+DTSTAMP:20230704T040000Z
+DTSTART:20230704
+DESCRIPTION:13 تیر ولادت حضرت امام علی النقی
+  الهادی علیه السلام (212 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:6bab5654-db89-48a2-812b-adfdf69d1541
+SUMMARY:14 تیر روز قلم
+DTSTAMP:20230705T040000Z
+DTSTART:20230705
+DESCRIPTION:14 تیر روز قلم
+END:VEVENT
+BEGIN:VEVENT
+UID:afab1a27-51e3-4729-9788-4dc38d05971a
+SUMMARY:14 تیر روز شهرداری و دهیاری
+DTSTAMP:20230705T040000Z
+DTSTART:20230705
+DESCRIPTION:14 تیر روز شهرداری و دهیاری
+END:VEVENT
+BEGIN:VEVENT
+UID:ee31721a-51ad-4e00-9ff7-cbe67c339366
+SUMMARY:16 تیر روز مالیات
+DTSTAMP:20230707T040000Z
+DTSTART:20230707
+DESCRIPTION:16 تیر روز مالیات
+END:VEVENT
+BEGIN:VEVENT
+UID:fa2fd7fc-bd80-4964-90b8-f7d1244cdbbf
+SUMMARY:تعطیل - 16 تیر عید سعید غدیر خم (10هـ ق)
+DTSTAMP:20230707T040000Z
+DTSTART:20230707
+DESCRIPTION:16 تیر عید سعید غدیر خم (10هـ ق)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:f78b04c7-8dee-473b-9f1e-44f5bf1066f6
+SUMMARY:18 تیر روز ادبیات کودکان و نوجوانان
+DTSTAMP:20230709T040000Z
+DTSTART:20230709
+DESCRIPTION:18 تیر روز ادبیات کودکان و نوجوانان
+END:VEVENT
+BEGIN:VEVENT
+UID:28d3db15-38cb-4d91-84c2-348e1fce29fa
+SUMMARY:18 تیر کشف توطئه کودتای آمریکایی در
+  پایگاه هوایی شهید نوژه(کودتای نافرجام
+  نقاب -1359 ه ش)
+DTSTAMP:20230709T040000Z
+DTSTART:20230709
+DESCRIPTION:18 تیر کشف توطئه کودتای آمریکایی در
+  پایگاه هوایی شهید نوژه(کودتای نافرجام
+  نقاب -1359 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a1ad69-5bcb-450f-af82-5d73f7bd8cb3
+SUMMARY:18 تیر ولادت حضرت امام موسی کاظم علیه
+  السلام (128 هـ ق)
+DTSTAMP:20230709T040000Z
+DTSTART:20230709
+DESCRIPTION:18 تیر ولادت حضرت امام موسی کاظم
+  علیه السلام (128 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:e004b80f-c302-4c9b-ad0a-56f53d24f244
+SUMMARY:20 تیر شهادت میثم تمار(60 هـ ق)
+DTSTAMP:20230711T040000Z
+DTSTART:20230711
+DESCRIPTION:20 تیر شهادت میثم تمار(60 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:20ac7555-2692-4c9b-8762-06564238acd7
+SUMMARY:21 تیر حمله به مسجد گوهرشاد و کشتار
+  مردم به دست رضاخان(1314 ه ش)
+DTSTAMP:20230712T040000Z
+DTSTART:20230712
+DESCRIPTION:21 تیر حمله به مسجد گوهرشاد و کشتار
+  مردم به دست رضاخان(1314 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:2b444da7-b4ee-499a-a71c-e90b0d81c9ad
+SUMMARY:21 تیر روز عفاف و حجاب
+DTSTAMP:20230712T040000Z
+DTSTART:20230712
+DESCRIPTION:21 تیر روز عفاف و حجاب
+END:VEVENT
+BEGIN:VEVENT
+UID:dc9b4f78-6c30-4f12-a1e6-be1539e7e8b6
+SUMMARY:22 تیر روز مباهله پیامبر اسلام صلی
+  الله علیه و آله (10 ه ق)
+DTSTAMP:20230713T040000Z
+DTSTART:20230713
+DESCRIPTION:22 تیر روز مباهله پیامبر اسلام صلی
+  الله علیه و آله (10 ه ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:2d778968-bd39-4b12-a564-8b710e5838bd
+SUMMARY:23 تیر گشایش نخستین مجلس خبرگان رهبری
+  (1362 ه ش)
+DTSTAMP:20230714T040000Z
+DTSTART:20230714
+DESCRIPTION:23 تیر گشایش نخستین مجلس خبرگان
+  رهبری (1362 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6aa969-72e9-4d26-abf3-0e051cc11145
+SUMMARY:23 تیر روز گفت و گو تعامل سازنده
+  باجهان
+DTSTAMP:20230714T040000Z
+DTSTART:20230714
+DESCRIPTION:23 تیر روز گفت و گو تعامل سازنده
+  باجهان
+END:VEVENT
+BEGIN:VEVENT
+UID:12174491-d691-4695-b827-be5c4a18fe30
+SUMMARY:23 تیر روز خانواده و تکریم بازنشستگان
+DTSTAMP:20230714T040000Z
+DTSTART:20230714
+DESCRIPTION:23 تیر روز خانواده و تکریم
+  بازنشستگان
+END:VEVENT
+BEGIN:VEVENT
+UID:d44c7e16-7af8-46c5-8aa4-d66facacebb7
+SUMMARY:25 تیر روز بهزیستی و تامین اجتماعی
+DTSTAMP:20230716T040000Z
+DTSTART:20230716
+DESCRIPTION:25 تیر روز بهزیستی و تامین اجتماعی
+END:VEVENT
+BEGIN:VEVENT
+UID:76b7ebcf-e40d-44d0-9bc2-b550578b2343
+SUMMARY:26 تیر سالروز تأسیس نهاد شورای نگهبان
+DTSTAMP:20230717T040000Z
+DTSTART:20230717
+DESCRIPTION:26 تیر سالروز تأسیس نهاد شورای
+  نگهبان
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f79d95-1605-4e01-a044-cdd3cb5834f5
+SUMMARY:27 تیر اعلام پذیرش قطعنامه 598 شورای
+  امنیت از سوی ایران(1367 ه ش)
+DTSTAMP:20230718T040000Z
+DTSTART:20230718
+DESCRIPTION:27 تیر اعلام پذیرش قطعنامه 598 شورای
+  امنیت از سوی ایران(1367 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:da8b5ba3-57ef-4b85-9d10-fc9101712bcb
+SUMMARY:28 تیر آغاز سال جدید هجری قمری
+DTSTAMP:20230719T040000Z
+DTSTART:20230719
+DESCRIPTION:28 تیر آغاز سال جدید هجری قمری
+END:VEVENT
+BEGIN:VEVENT
+UID:4b62aa09-a375-408e-84c9-dd4710301b6b
+SUMMARY:29 تیر ورود امام حسین علیه السلام به
+  کربلا (61 ق)
+DTSTAMP:20230720T040000Z
+DTSTART:20230720
+DESCRIPTION:29 تیر ورود امام حسین علیه السلام به
+  کربلا (61 ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:cceda00a-2eed-4df7-9eae-59d6a84822f4
+SUMMARY:30 تیر روز بزرگداشت آیت الله سید
+  ابوالقاسم کاشانی
+DTSTAMP:20230721T040000Z
+DTSTART:20230721
+DESCRIPTION:30 تیر روز بزرگداشت آیت الله سید
+  ابوالقاسم کاشانی
+END:VEVENT
+BEGIN:VEVENT
+UID:064f8798-dc5f-47ad-a250-0492151571db
+SUMMARY:02 آذر جنگ جمل(36 هـ ق)
+DTSTAMP:20231123T040000Z
+DTSTART:20231123
+DESCRIPTION:02 آذر جنگ جمل(36 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:9c61270d-b570-4dc6-aa46-b7f14aac4a1b
+SUMMARY:05 آذر روز بسیج مستضعفان(تشکیل بسیج
+  مستضعفان به فرمان حضرت امام خمینی (رحمة
+  الله عليه) -1358 ه ش)
+DTSTAMP:20231126T040000Z
+DTSTART:20231126
+DESCRIPTION:05 آذر روز بسیج مستضعفان(تشکیل بسیج
+  مستضعفان به فرمان حضرت امام خمینی (رحمة
+  الله عليه) -1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:bd3d7d9c-9c48-4ecc-a71e-a3bc00600089
+SUMMARY:05 آذر سالروز قیام مردم گرگان(1357ه ش)
+DTSTAMP:20231126T040000Z
+DTSTART:20231126
+DESCRIPTION:05 آذر سالروز قیام مردم گرگان(1357ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:c78b2fad-5f93-44d5-a039-7110a47daa35
+SUMMARY:05 آذر شهادت حضرت فاطمة زهرا سلام
+  االله عليها(11 هـ ق) به روايتي 
+DTSTAMP:20231126T040000Z
+DTSTART:20231126
+DESCRIPTION:05 آذر شهادت حضرت فاطمة زهرا سلام
+  االله عليها(11 هـ ق) به روايتي 
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bff37a-6b2f-4a63-b3ca-439c93399c7f
+SUMMARY:07 آذر روز نیروی دریایی
+DTSTAMP:20231128T040000Z
+DTSTART:20231128
+DESCRIPTION:07 آذر روز نیروی دریایی
+END:VEVENT
+BEGIN:VEVENT
+UID:a80ca5ca-73b1-4741-9692-7eb5e303cf41
+SUMMARY:07 آذر ولادت حضرت سجاد علیه السلام به
+  قولی(38 هـ ق)
+DTSTAMP:20231128T040000Z
+DTSTART:20231128
+DESCRIPTION:07 آذر ولادت حضرت سجاد علیه السلام
+  به قولی(38 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:14b47170-87d6-4a8d-8ba2-be9fef50f6ca
+SUMMARY:09 آذر روز بزرگداشت شیخ مفید
+DTSTAMP:20231130T040000Z
+DTSTART:20231130
+DESCRIPTION:09 آذر روز بزرگداشت شیخ مفید
+END:VEVENT
+BEGIN:VEVENT
+UID:92b7e3d4-3efd-4cfc-b074-9fc899016295
+SUMMARY:10 آذر شهادت آیت الله سید حسن مدرس (1316
+  ه ش) و روز مجلس
+DTSTAMP:20231201T040000Z
+DTSTART:20231201
+DESCRIPTION:10 آذر شهادت آیت الله سید حسن مدرس
+  (1316 ه ش) و روز مجلس
+END:VEVENT
+BEGIN:VEVENT
+UID:33542187-9792-46bb-8e7c-ee47528e67ae
+SUMMARY:10 آذر روز جهانی مبارزه با ایدز
+DTSTAMP:20231201T040000Z
+DTSTART:20231201
+DESCRIPTION:10 آذر روز جهانی مبارزه با ایدز
+END:VEVENT
+BEGIN:VEVENT
+UID:aa43f049-dff0-41af-9f4c-28e298e6af43
+SUMMARY:11 آذر شهادت میرزا کوچک خان جنگلی (1300ه
+  ش)
+DTSTAMP:20231202T040000Z
+DTSTART:20231202
+DESCRIPTION:11 آذر شهادت میرزا کوچک خان جنگلی
+  (1300ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:489cb01f-bfc8-4b9f-bb77-ba7cafa5b9d1
+SUMMARY:12 آذر روز قانون اساسی جمهوری اسلامی
+  ایران (تصویب قانون اساسی جمهوری اسلامی
+  ایران - 1358 ه ش)
+DTSTAMP:20231203T040000Z
+DTSTART:20231203
+DESCRIPTION:12 آذر روز قانون اساسی جمهوری
+  اسلامی ایران (تصویب قانون اساسی جمهوری
+  اسلامی ایران - 1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:75284903-3a1d-459b-af76-cb47179d0928
+SUMMARY:12 آذر روز جهانی معلولان
+DTSTAMP:20231203T040000Z
+DTSTART:20231203
+DESCRIPTION:12 آذر روز جهانی معلولان
+END:VEVENT
+BEGIN:VEVENT
+UID:6a08d623-7e8f-42cd-b723-1b8951bcda90
+SUMMARY:13 آذر روز بیمه
+DTSTAMP:20231204T040000Z
+DTSTART:20231204
+DESCRIPTION:13 آذر روز بیمه
+END:VEVENT
+BEGIN:VEVENT
+UID:64031069-976a-4738-bbd5-5e92470ee259
+SUMMARY:15 آذر روز حسابدار
+DTSTAMP:20231206T040000Z
+DTSTART:20231206
+DESCRIPTION:15 آذر روز حسابدار
+END:VEVENT
+BEGIN:VEVENT
+UID:2469b568-fa8b-4a67-8ad0-56745ebe73a1
+SUMMARY:16 آذر روز دانشجو
+DTSTAMP:20231207T040000Z
+DTSTART:20231207
+DESCRIPTION:16 آذر روز دانشجو
+END:VEVENT
+BEGIN:VEVENT
+UID:da373415-e565-4745-8601-d2718d34257d
+SUMMARY:16 آذر روز جهانی هواپیمایی
+DTSTAMP:20231207T040000Z
+DTSTART:20231207
+DESCRIPTION:16 آذر روز جهانی هواپیمایی
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5310e2-6615-42a8-aae5-3e6fe93040c4
+SUMMARY:18 آذر معرفی عراق به عنوان مسئول و
+  آغازگر جنگ از سوی سازمان ملل (1370 ه ش)
+DTSTAMP:20231209T040000Z
+DTSTART:20231209
+DESCRIPTION:18 آذر معرفی عراق به عنوان مسئول و
+  آغازگر جنگ از سوی سازمان ملل (1370 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d2113e-a957-490b-8501-6b93e1038d00
+SUMMARY:19 آذر تشکیل شورای عالی انقلاب فرهنگی
+  به فرمان حضرت امام خمینی (رحمة الله
+  عليه)(1363 ه ش)
+DTSTAMP:20231210T040000Z
+DTSTART:20231210
+DESCRIPTION:19 آذر تشکیل شورای عالی انقلاب
+  فرهنگی به فرمان حضرت امام خمینی (رحمة
+  الله عليه)(1363 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:02a049e6-e8b1-4770-8339-59c4be304df1
+SUMMARY:20 آذر شهادت آیت الله دستغیب سومین
+  شهید محراب به دست منافقان(1360 ه ش)
+DTSTAMP:20231211T040000Z
+DTSTART:20231211
+DESCRIPTION:20 آذر شهادت آیت الله دستغیب سومین
+  شهید محراب به دست منافقان(1360 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:76e2d356-4cb2-4871-96ec-e73f0f5d3d44
+SUMMARY:25 آذر روز پژوهش
+DTSTAMP:20231216T040000Z
+DTSTART:20231216
+DESCRIPTION:25 آذر روز پژوهش
+END:VEVENT
+BEGIN:VEVENT
+UID:261da275-6244-4811-8fa2-07506ca471a2
+SUMMARY:تعطیل - 25 آذرشهادت حضرت فاطمة زهرا
+  سلام االله عليها (11 هـ ق) 
+DTSTAMP:20231216T040000Z
+DTSTART:20231216
+DESCRIPTION:25 آذرشهادت حضرت فاطمة زهرا سلام
+  االله عليها (11 هـ ق) 
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:58e957f5-38e5-4589-9464-0c4d36f16f12
+SUMMARY:26 آذر روز حمل و نقل و رانندگان
+DTSTAMP:20231217T040000Z
+DTSTART:20231217
+DESCRIPTION:26 آذر روز حمل و نقل و رانندگان
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6ca202-1537-4f2d-814f-b35cc79ba28f
+SUMMARY:27 آذر روز جهان عاری از خشونت و افراطی
+  گری
+DTSTAMP:20231218T040000Z
+DTSTART:20231218
+DESCRIPTION:27 آذر روز جهان عاری از خشونت و
+  افراطی گری
+END:VEVENT
+BEGIN:VEVENT
+UID:8e4987f0-7a0b-45d1-b383-711e8b38dacd
+SUMMARY:27 آذر شهادت آیت الله دکتر محمد مفتح
+  (1358 ه ش)
+DTSTAMP:20231218T040000Z
+DTSTART:20231218
+DESCRIPTION:27 آذر شهادت آیت الله دکتر محمد مفتح
+  (1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ad9592-b9d7-4232-b216-75483114cce6
+SUMMARY:27 آذر روز وحدت حوزه و دانشگاه
+DTSTAMP:20231218T040000Z
+DTSTART:20231218
+DESCRIPTION:27 آذر روز وحدت حوزه و دانشگاه
+END:VEVENT
+BEGIN:VEVENT
+UID:a8cb6e9c-0106-48f4-8eba-027936871afe
+SUMMARY:29 آذر روز تجلیل از شهیدتندگویان
+DTSTAMP:20231220T040000Z
+DTSTART:20231220
+DESCRIPTION:29 آذر روز تجلیل از شهیدتندگویان
+END:VEVENT
+BEGIN:VEVENT
+UID:7e3e5f57-7c3c-4238-952b-4b0faa968186
+SUMMARY:30 آذر شب یلدا
+DTSTAMP:20231221T040000Z
+DTSTART:20231221
+DESCRIPTION:30 آذر شب یلدا
+END:VEVENT
+BEGIN:VEVENT
+UID:36344e3c-189a-417e-93b3-e46b8adf26ca
+SUMMARY:03 دی روز ثبت احوال
+DTSTAMP:20231224T040000Z
+DTSTART:20231224
+DESCRIPTION:03 دی روز ثبت احوال
+END:VEVENT
+BEGIN:VEVENT
+UID:1765ccd3-926a-4204-b3ff-ba1b42a85193
+SUMMARY:04 دی میلاد حضرت عیسی مسیح علیه السلام
+  
+DTSTAMP:20231225T040000Z
+DTSTART:20231225
+DESCRIPTION:04 دی میلاد حضرت عیسی مسیح علیه
+  السلام 
+END:VEVENT
+BEGIN:VEVENT
+UID:fa27c7b5-cb92-4699-99fd-0fae62676393
+SUMMARY:05 دی روز ملی ایمنی در برابر زلزله و
+  کاهش اثرات بلایای طبیعی
+DTSTAMP:20231226T040000Z
+DTSTART:20231226
+DESCRIPTION:05 دی روز ملی ایمنی در برابر زلزله و
+  کاهش اثرات بلایای طبیعی
+END:VEVENT
+BEGIN:VEVENT
+UID:6315b5ae-b36a-473f-9854-43d72b101fad
+SUMMARY:05 دی سالروز وفات حضرت ام البنین سلام
+  الله علیها
+DTSTAMP:20231226T040000Z
+DTSTART:20231226
+DESCRIPTION:05 دی سالروز وفات حضرت ام البنین
+  سلام الله علیها
+END:VEVENT
+BEGIN:VEVENT
+UID:7f6067f4-be64-49df-bbc0-3b6e715e5cbc
+SUMMARY:05 دی روز تکریم مادران و همسران شهدا
+DTSTAMP:20231226T040000Z
+DTSTART:20231226
+DESCRIPTION:05 دی روز تکریم مادران و همسران شهدا
+END:VEVENT
+BEGIN:VEVENT
+UID:b80888ae-278b-479f-8efa-f33c92eb3bf9
+SUMMARY:07 دی شهادت آیت الله حسین غفاری به دست
+  ماموران ستم شاهی پهلوی(1353 ه ش)
+DTSTAMP:20231228T040000Z
+DTSTART:20231228
+DESCRIPTION:07 دی شهادت آیت الله حسین غفاری به
+  دست ماموران ستم شاهی پهلوی(1353 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:b36390bd-a50f-4720-88f1-b177c14307f1
+SUMMARY:07 دی سالروز تشکیل نهضت سوادآموزی به
+  فرمان حضرت امام خمینی (رحمة الله عليه)
+  (1358 ه ش)
+DTSTAMP:20231228T040000Z
+DTSTART:20231228
+DESCRIPTION:07 دی سالروز تشکیل نهضت سوادآموزی
+  به فرمان حضرت امام خمینی (رحمة الله عليه)
+  (1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:6a2134a3-328d-4d8d-ae2d-50ffaed4b616
+SUMMARY:08 دی روز صنعت پتروشیمی
+DTSTAMP:20231229T040000Z
+DTSTART:20231229
+DESCRIPTION:08 دی روز صنعت پتروشیمی
+END:VEVENT
+BEGIN:VEVENT
+UID:feea15b3-716d-4f43-9005-a62191ccad7d
+SUMMARY:09 دی روز بصیرت و میثاق امت با ولایت
+DTSTAMP:20231230T040000Z
+DTSTART:20231230
+DESCRIPTION:09 دی روز بصیرت و میثاق امت با ولایت
+END:VEVENT
+BEGIN:VEVENT
+UID:44580961-c026-4e6d-904b-75758cb32f29
+SUMMARY:11 دی آغاز سال جدید میلادی
+DTSTAMP:20240101T040000Z
+DTSTART:20240101
+DESCRIPTION:11 دی آغاز سال جدید میلادی
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb39cfa-05a8-4282-a1b4-4771323b19ea
+SUMMARY:12 دی ولادت حضرت فاطمه زهرا سلام الله
+  علیها (هشتم قبل از هجرت) و روز زن
+DTSTAMP:20240102T040000Z
+DTSTART:20240102
+DESCRIPTION:12 دی ولادت حضرت فاطمه زهرا سلام
+  الله علیها (هشتم قبل از هجرت) و روز زن
+END:VEVENT
+BEGIN:VEVENT
+UID:92e08001-8339-4d74-a766-031af14c16af
+SUMMARY:12 دی تولد حضرت امام خمینی(رحمة الله
+  عليه) رهبر کبیر انقلاب اسلامی(1320 هـ ق)
+DTSTAMP:20240102T040000Z
+DTSTART:20240102
+DESCRIPTION:12 دی تولد حضرت امام خمینی(رحمة الله
+  عليه) رهبر کبیر انقلاب اسلامی(1320 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:e48b1e6a-1e1b-48ba-8d7c-e5fe88d227ea
+SUMMARY:13 دی ابلاغ پیام تاریخی حضرت امام
+  خمینی (رحمة الله علیه) به گورباچف رهبر
+  شوروی سابق (1367 ه ش)
+DTSTAMP:20240103T040000Z
+DTSTART:20240103
+DESCRIPTION:13 دی ابلاغ پیام تاریخی حضرت امام
+  خمینی (رحمة الله علیه) به گورباچف رهبر
+  شوروی سابق (1367 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:ef30f1ea-63d0-4af5-ac1e-5fe8d5d1ac1f
+SUMMARY:13 دی روز جهانی مقاومت ـ شهادت الگوی
+  اخلاص و عمل سردار سپهبد قاسم سلیمانی به
+  دست استکبار جهانی (1398 ه ش)
+DTSTAMP:20240103T040000Z
+DTSTART:20240103
+DESCRIPTION:13 دی روز جهانی مقاومت ـ شهادت الگوی
+  اخلاص و عمل سردار سپهبد قاسم سلیمانی به
+  دست استکبار جهانی (1398 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7fd14a-09d1-4c0b-a2af-0f0cb63d80a0
+SUMMARY:17 دی اجرای طرح استعماری حذف حجاب به
+  دست رضاخان (1314 ه ش)
+DTSTAMP:20240107T040000Z
+DTSTART:20240107
+DESCRIPTION:17 دی اجرای طرح استعماری حذف حجاب به
+  دست رضاخان (1314 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:43297d53-cba0-4acf-abd9-9d96218c1549
+SUMMARY:17 دی روز بزرگداشت خواجوی کرمانی
+DTSTAMP:20240107T040000Z
+DTSTART:20240107
+DESCRIPTION:17 دی روز بزرگداشت خواجوی کرمانی
+END:VEVENT
+BEGIN:VEVENT
+UID:02242dea-4377-4040-a51b-a7169997f387
+SUMMARY:19 دی قیام خونین مردم قم (1356 ه ش)
+DTSTAMP:20240109T040000Z
+DTSTART:20240109
+DESCRIPTION:19 دی قیام خونین مردم قم (1356 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:60020bb9-8be7-4166-beb4-e7cd35e9bc65
+SUMMARY:20 دی شهادت میرزا تقی خان امیرکبیر (1230
+  ه ش)
+DTSTAMP:20240110T040000Z
+DTSTART:20240110
+DESCRIPTION:20 دی شهادت میرزا تقی خان امیرکبیر
+  (1230 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:68d4d4b3-8d89-44ea-9340-a6615dcc4682
+SUMMARY:22 دی تشکیل شورای انقلاب به فرمان حضرت
+  امام خمینی (رحمة الله عليه)(1357 ه ش)
+DTSTAMP:20240112T040000Z
+DTSTART:20240112
+DESCRIPTION:22 دی تشکیل شورای انقلاب به فرمان
+  حضرت امام خمینی (رحمة الله عليه)(1357 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:e410300d-4bfc-496a-a1bc-752be0a58d12
+SUMMARY:22 دی ولادت حضرت امام محمد باقر علیه
+  السلام (57 هـ ق)
+DTSTAMP:20240112T040000Z
+DTSTART:20240112
+DESCRIPTION:22 دی ولادت حضرت امام محمد باقر علیه
+  السلام (57 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:73f88a00-f6a8-4f79-a539-9f0a45b2acd3
+SUMMARY:24 دی شهادت حضرت امام علی النقی الهادی
+  علیه السلام (254 هـ ق)
+DTSTAMP:20240114T040000Z
+DTSTART:20240114
+DESCRIPTION:24 دی شهادت حضرت امام علی النقی
+  الهادی علیه السلام (254 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:78d596be-7977-421d-a2a9-c6ea245c440b
+SUMMARY:26 دی فرار شاه معدوم (1357 ه ش)
+DTSTAMP:20240116T040000Z
+DTSTART:20240116
+DESCRIPTION:26 دی فرار شاه معدوم (1357 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:e56b8d23-84d3-4346-a747-aff4b0fa6226
+SUMMARY:27 دی شهادت نواب صفوی، طهماسبی،
+  برادران واحدی و ذوالقدر از فدائیان
+  اسلام (1334 ه ش)
+DTSTAMP:20240117T040000Z
+DTSTART:20240117
+DESCRIPTION:27 دی شهادت نواب صفوی، طهماسبی،
+  برادران واحدی و ذوالقدر از فدائیان
+  اسلام (1334 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:6f672eed-a6cf-4f8f-a08b-f076431efd47
+SUMMARY:27 دی شب لیلة الرغائب
+DTSTAMP:20240117T040000Z
+DTSTART:20240117
+DESCRIPTION:27 دی شب لیلة الرغائب
+END:VEVENT
+BEGIN:VEVENT
+UID:0d5fa9fc-f6af-4991-8e80-1f7a458c0748
+SUMMARY:29 دی روز غزه
+DTSTAMP:20240119T040000Z
+DTSTART:20240119
+DESCRIPTION:29 دی روز غزه
+END:VEVENT
+BEGIN:VEVENT
+UID:d67cef8c-e6ec-4b6d-806d-3cc32ffa84d0
+SUMMARY:01 بهمن ولادت حضرت امام محمد تقی علیه
+  السلام (جواد الائمه) (195 هـ ق)
+DTSTAMP:20240121T040000Z
+DTSTART:20240121
+DESCRIPTION:01 بهمن ولادت حضرت امام محمد تقی
+  علیه السلام (جواد الائمه) (195 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:95eccd35-b84f-4b22-b2c8-22739672541e
+SUMMARY:تعطیل - 04 بهمن ولادت حضرت امام علی
+  علیه السلام (23 سال قبل از هجرت)
+DTSTAMP:20240124T040000Z
+DTSTART:20240124
+DESCRIPTION:04 بهمن ولادت حضرت امام علی علیه
+  السلام (23 سال قبل از هجرت)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:40344bf7-6922-46e9-baf7-a95a12a819a4
+SUMMARY:04 بهمن آغاز ایام البیض (اعتکاف)
+DTSTAMP:20240124T040000Z
+DTSTART:20240124
+DESCRIPTION:04 بهمن آغاز ایام البیض (اعتکاف)
+END:VEVENT
+BEGIN:VEVENT
+UID:5c03f04f-0448-408c-9a9e-3fda94630b48
+SUMMARY:06 بهمن سالروز حماسه مردم آمل
+DTSTAMP:20240126T040000Z
+DTSTART:20240126
+DESCRIPTION:06 بهمن سالروز حماسه مردم آمل
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f9b43a-67f2-4fae-a229-c3a960d92ab0
+SUMMARY:06 بهمن ارتحال حضرت زینب سلام الله
+  علیها (62 هـ ق)
+DTSTAMP:20240126T040000Z
+DTSTART:20240126
+DESCRIPTION:06 بهمن ارتحال حضرت زینب سلام الله
+  علیها (62 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:2a701b59-055c-44e6-894f-ac17fb56e4eb
+SUMMARY:06 بهمن تغییر قبله مسلمین از بیت
+  المقدس به مکه معظمه(2 هـ ق)
+DTSTAMP:20240126T040000Z
+DTSTART:20240126
+DESCRIPTION:06 بهمن تغییر قبله مسلمین از بیت
+  المقدس به مکه معظمه(2 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:3246b488-fc07-4e39-a9be-c9e9dc4b4d60
+SUMMARY:06 بهمن روز جهانی گمرک
+DTSTAMP:20240126T040000Z
+DTSTART:20240126
+DESCRIPTION:06 بهمن روز جهانی گمرک
+END:VEVENT
+BEGIN:VEVENT
+UID:0ceffc9a-3aec-41a2-8bae-9b49e2592dcf
+SUMMARY:09 بهمن وفات ابراهیم فرزند پیامبر
+  اکرم صلی الله علیه و آله (10 هـ ق)
+DTSTAMP:20240129T040000Z
+DTSTART:20240129
+DESCRIPTION:09 بهمن وفات ابراهیم فرزند پیامبر
+  اکرم صلی الله علیه و آله (10 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:60dfa5c0-3242-41f1-a123-39b6ec662100
+SUMMARY:12 بهمن بازگشت حضرت امام خمینی (رحمة
+  الله عليه) به ایران (1357 ه ش) و آغاز دهه
+  مبارک فجر انقلاب اسلامی
+DTSTAMP:20240201T040000Z
+DTSTART:20240201
+DESCRIPTION:12 بهمن بازگشت حضرت امام خمینی (رحمة
+  الله عليه) به ایران (1357 ه ش) و آغاز دهه
+  مبارک فجر انقلاب اسلامی
+END:VEVENT
+BEGIN:VEVENT
+UID:383500c1-3c0a-40a6-ae6e-8a106a312284
+SUMMARY:14 بهمن روز فناوری فضایی
+DTSTAMP:20240203T040000Z
+DTSTART:20240203
+DESCRIPTION:14 بهمن روز فناوری فضایی
+END:VEVENT
+BEGIN:VEVENT
+UID:dd2749d7-2adf-46b2-84c4-ed01893bac56
+SUMMARY:15 بهمن فتح خیبر توسط حضرت
+  امیرالمومنین علی علیه السلام (7 هـ ق)
+DTSTAMP:20240204T040000Z
+DTSTART:20240204
+DESCRIPTION:15 بهمن فتح خیبر توسط حضرت
+  امیرالمومنین علی علیه السلام (7 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:6179ad0c-a7d0-4293-8e6c-aa074c408b67
+SUMMARY:16 بهمن شهادت حضرت امام موسی کاظم علیه
+  السلام (183 هـ ق)
+DTSTAMP:20240205T040000Z
+DTSTART:20240205
+DESCRIPTION:16 بهمن شهادت حضرت امام موسی کاظم
+  علیه السلام (183 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:ae06951f-f9b2-4486-a26f-4b4585e3d20e
+SUMMARY:17 بهمن وفات حضرت ابوطالب عموی پیامبر
+  اکرم (صلی الله علیه و آله) و پدر
+  امیرالمومنین علیه السلام (3 سال قبل از
+  هجرت)
+DTSTAMP:20240206T040000Z
+DTSTART:20240206
+DESCRIPTION:17 بهمن وفات حضرت ابوطالب عموی
+  پیامبر اکرم (صلی الله علیه و آله) و پدر
+  امیرالمومنین علیه السلام (3 سال قبل از
+  هجرت)
+END:VEVENT
+BEGIN:VEVENT
+UID:65134f1e-f4ee-42aa-85e1-66357c234b66
+SUMMARY:تعطیل - 18 بهمن مبعث حضرت رسول اکرم
+  (صلی الله علیه و آله) (13 سال قبل از هجرت)
+DTSTAMP:20240207T040000Z
+DTSTART:20240207
+DESCRIPTION:18 بهمن مبعث حضرت رسول اکرم (صلی
+  الله علیه و آله) (13 سال قبل از هجرت)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f537dc6-de81-4a14-8a49-01c1876d2625
+SUMMARY:19 بهمن روز نیروی هوایی
+DTSTAMP:20240208T040000Z
+DTSTART:20240208
+DESCRIPTION:19 بهمن روز نیروی هوایی
+END:VEVENT
+BEGIN:VEVENT
+UID:1a27485d-af1f-474a-9fc7-153940824fa6
+SUMMARY:21 بهمن شکسته شدن حکومت نظامی به فرمان
+  حضرت امام خمینی (رحمة الله علیه) (1357 ه ش)
+DTSTAMP:20240210T040000Z
+DTSTART:20240210
+DESCRIPTION:21 بهمن شکسته شدن حکومت نظامی به
+  فرمان حضرت امام خمینی (رحمة الله علیه)
+  (1357 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:4d536fe5-db2a-41e0-ae50-2c51af2e54c6
+SUMMARY:تعطیل - 22 بهمن پیروزی انقلاب اسلامی و
+  سقوط نظام شاهنشاهی(1357 ه ش)
+DTSTAMP:20240211T040000Z
+DTSTART:20240211
+DESCRIPTION:22 بهمن پیروزی انقلاب اسلامی و سقوط
+  نظام شاهنشاهی(1357 ه ش)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5d380f-eee6-433f-9b96-19fbe221f7d2
+SUMMARY:24 بهمن ولادت حضرت امام حسین علیه
+  السلام ( 4 هـ ق) و روز پاسدار
+DTSTAMP:20240213T040000Z
+DTSTART:20240213
+DESCRIPTION:24 بهمن ولادت حضرت امام حسین علیه
+  السلام ( 4 هـ ق) و روز پاسدار
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb80202-f00e-46df-ae33-21362bcfa7f1
+SUMMARY:25 بهمن صدور حکم تاریخی حضرت امام
+  خمینی (ره الله علیه) مبنی بر ارتداد سلمان
+  رشدی نویسنده خائن کتاب آیات شیطانی (1367 ه
+  ش)
+DTSTAMP:20240214T040000Z
+DTSTART:20240214
+DESCRIPTION:25 بهمن صدور حکم تاریخی حضرت امام
+  خمینی (ره الله علیه) مبنی بر ارتداد سلمان
+  رشدی نویسنده خائن کتاب آیات شیطانی (1367 ه
+  ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:031556d2-656e-440e-9e8a-0453a2741ce2
+SUMMARY:25 بهمن ولادت حضرت ابوالفضل العباس
+  علیه السلام ( 26 هـ ق) و روز جانباز
+DTSTAMP:20240214T040000Z
+DTSTART:20240214
+DESCRIPTION:25 بهمن ولادت حضرت ابوالفضل العباس
+  علیه السلام ( 26 هـ ق) و روز جانباز
+END:VEVENT
+BEGIN:VEVENT
+UID:4ad4f1b4-1b55-4441-9d56-38c9b16d208b
+SUMMARY:26 بهمن ولادت حضرت امام زین العابدین
+  علیه السلام ( 38 هـ ق)
+DTSTAMP:20240215T040000Z
+DTSTART:20240215
+DESCRIPTION:26 بهمن ولادت حضرت امام زین
+  العابدین علیه السلام ( 38 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf1d9d4-b3fb-433a-a55a-9b958e0f903f
+SUMMARY:29 بهمن قیام مردم تبریز به مناسبت
+  چهلمین روز شهادت شهدای قم(1356 ه ش)
+DTSTAMP:20240218T040000Z
+DTSTART:20240218
+DESCRIPTION:29 بهمن قیام مردم تبریز به مناسبت
+  چهلمین روز شهادت شهدای قم(1356 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:df7739cd-89aa-4824-836a-e60040b168a2
+SUMMARY:29 بهمن روز اقتصاد مقاومتی و
+  کارآفرینی
+DTSTAMP:20240218T040000Z
+DTSTART:20240218
+DESCRIPTION:29 بهمن روز اقتصاد مقاومتی و
+  کارآفرینی
+END:VEVENT
+BEGIN:VEVENT
+UID:c295e9cf-9f05-4834-8ad7-2417fbfb07a2
+SUMMARY:01 اردیبهشت روز بزرگداشت سعدی
+DTSTAMP:20230421T040000Z
+DTSTART:20230421
+DESCRIPTION:01 اردیبهشت روز بزرگداشت سعدی
+END:VEVENT
+BEGIN:VEVENT
+UID:497bd573-2013-431f-b793-863d1e46ee31
+SUMMARY:02 اردیبهشت روز زمین پاک
+DTSTAMP:20230422T040000Z
+DTSTART:20230422
+DESCRIPTION:02 اردیبهشت روز زمین پاک
+END:VEVENT
+BEGIN:VEVENT
+UID:7b41eed0-2ef5-4de1-8c82-fbc08a7538a4
+SUMMARY:02 اردیبهشت تأسیس سپاه پاسداران
+  انقلاب اسلامی (1358 ه ش)
+DTSTAMP:20230422T040000Z
+DTSTART:20230422
+DESCRIPTION:02 اردیبهشت تأسیس سپاه پاسداران
+  انقلاب اسلامی (1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:30cffeee-dc89-4146-b5b9-8dcb1d166412
+SUMMARY:02 اردیبهشت سالروز اعلام انقلاب
+  فرهنگی (1359 ه ش)
+DTSTAMP:20230422T040000Z
+DTSTART:20230422
+DESCRIPTION:02 اردیبهشت سالروز اعلام انقلاب
+  فرهنگی (1359 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:2d375f11-40bd-4575-8a8d-fd9d93e58165
+SUMMARY:تعطیل - 02 اردیبهشت عید سعید فطر
+DTSTAMP:20230422T040000Z
+DTSTART:20230422
+DESCRIPTION:02 اردیبهشت عید سعید فطر
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3504e0-f402-42a1-9c1c-26e7d785c261
+SUMMARY:03 اردیبهشت روز بزرگداشت شیخ بهایی
+DTSTAMP:20230423T040000Z
+DTSTART:20230423
+DESCRIPTION:03 اردیبهشت روز بزرگداشت شیخ بهایی
+END:VEVENT
+BEGIN:VEVENT
+UID:7f380171-345d-4892-bb91-82f574d51c63
+SUMMARY:03 اردیبهشت سالروز شهادت امیر سپهبد
+  قرنی(1358 ه ش)
+DTSTAMP:20230423T040000Z
+DTSTART:20230423
+DESCRIPTION:03 اردیبهشت سالروز شهادت امیر سپهبد
+  قرنی(1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a3f93d-a40f-41fa-98a8-dd87d2a3f5f4
+SUMMARY:03 اردیبهشت روز معماری
+DTSTAMP:20230423T040000Z
+DTSTART:20230423
+DESCRIPTION:03 اردیبهشت روز معماری
+END:VEVENT
+BEGIN:VEVENT
+UID:a4b9a152-607d-4f91-bad3-34bc9eec80be
+SUMMARY:تعطیل - 03 اردیبهشت تعطیل به مناسبت
+  عید سعید فطر
+DTSTAMP:20230423T040000Z
+DTSTART:20230423
+DESCRIPTION:03 اردیبهشت تعطیل به مناسبت عید
+  سعید فطر
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:f867704f-e0dc-4b42-94cc-ce45a902c026
+SUMMARY:05 اردیبهشت شکست حمله نظامی آمریکا در
+  طبس(1359 ه ش)
+DTSTAMP:20230425T040000Z
+DTSTART:20230425
+DESCRIPTION:05 اردیبهشت شکست حمله نظامی آمریکا
+  در طبس(1359 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:31470087-c585-4389-bc64-57edcabddbaa
+SUMMARY:06 اردیبهشت ورود جناب مسلم ابن عقیل به
+  کوفه(60 هـ ق)
+DTSTAMP:20230426T040000Z
+DTSTART:20230426
+DESCRIPTION:06 اردیبهشت ورود جناب مسلم ابن عقیل
+  به کوفه(60 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:ed4fa2a2-e362-487c-9e8a-ed66910b6007
+SUMMARY:07 اردیبهشت روز ایمنی حمل ونقل
+DTSTAMP:20230427T040000Z
+DTSTART:20230427
+DESCRIPTION:07 اردیبهشت روز ایمنی حمل ونقل
+END:VEVENT
+BEGIN:VEVENT
+UID:75a3fde8-4f39-4a4d-9546-e05b7abce380
+SUMMARY:09 اردیبهشت روز شوراها
+DTSTAMP:20230429T040000Z
+DTSTART:20230429
+DESCRIPTION:09 اردیبهشت روز شوراها
+END:VEVENT
+BEGIN:VEVENT
+UID:319a1bda-a0f6-4506-bca9-bd7c85483107
+SUMMARY:09 اردیبهشت تخریب قبور ائمه بقیع
+  علیهم السلام
+DTSTAMP:20230429T040000Z
+DTSTART:20230429
+DESCRIPTION:09 اردیبهشت تخریب قبور ائمه بقیع
+  علیهم السلام
+END:VEVENT
+BEGIN:VEVENT
+UID:01404e8a-f2e5-43b1-b1d8-6fb65dc897c0
+SUMMARY:10 اردیبهشت روز ملی خلیج فارس
+DTSTAMP:20230430T040000Z
+DTSTART:20230430
+DESCRIPTION:10 اردیبهشت روز ملی خلیج فارس
+END:VEVENT
+BEGIN:VEVENT
+UID:86aa8f57-7f30-4c48-b850-a01d2798c938
+SUMMARY:10 اردیبهشت آغاز عملیات بیت المقدس(1361
+  ه ش)
+DTSTAMP:20230430T040000Z
+DTSTART:20230430
+DESCRIPTION:10 اردیبهشت آغاز عملیات بیت
+  المقدس(1361 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4e9356-8164-4c56-8179-361397815771
+SUMMARY:11 اردیبهشت روز جهانی کار و کارگر
+DTSTAMP:20230501T040000Z
+DTSTART:20230501
+DESCRIPTION:11 اردیبهشت روز جهانی کار و کارگر
+END:VEVENT
+BEGIN:VEVENT
+UID:2de91e30-3304-4bbe-85e0-003ae54b962f
+SUMMARY:12 اردیبهشت شهادت استاد مرتضی مطهری
+  (1358 ه ش) - روز معلم
+DTSTAMP:20230502T040000Z
+DTSTART:20230502
+DESCRIPTION:12 اردیبهشت شهادت استاد مرتضی مطهری
+  (1358 ه ش) - روز معلم
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed8e81e-ddac-4d3f-bcb0-1d4551c22757
+SUMMARY:15 اردیبهشت روز بزرگداشت شیخ صدوق
+DTSTAMP:20230505T040000Z
+DTSTART:20230505
+DESCRIPTION:15 اردیبهشت روز بزرگداشت شیخ صدوق
+END:VEVENT
+BEGIN:VEVENT
+UID:762240fa-c849-4f86-8492-3952cae2388c
+SUMMARY:15 اردیبهشت روز جهانی ماما
+DTSTAMP:20230505T040000Z
+DTSTART:20230505
+DESCRIPTION:15 اردیبهشت روز جهانی ماما
+END:VEVENT
+BEGIN:VEVENT
+UID:2064a6d2-a60b-44b7-9c25-aed645e5c516
+SUMMARY:16 اردیبهشت شهادت حضرت حمزه (3 هـ ق)
+DTSTAMP:20230506T040000Z
+DTSTART:20230506
+DESCRIPTION:16 اردیبهشت شهادت حضرت حمزه (3 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:0b89f233-cae4-4266-ae4c-ea879ab9de7d
+SUMMARY:16 اردیبهشت وفات حضرت عبدالعظیم حسنی
+  (252 هـ ق)
+DTSTAMP:20230506T040000Z
+DTSTART:20230506
+DESCRIPTION:16 اردیبهشت وفات حضرت عبدالعظیم
+  حسنی (252 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:483e8f9f-bc46-4662-bdca-ad985e4b3d0d
+SUMMARY:18 اردیبهشت روز بیماریهای خاص و صعب
+  العلاج
+DTSTAMP:20230508T040000Z
+DTSTART:20230508
+DESCRIPTION:18 اردیبهشت روز بیماریهای خاص و صعب
+  العلاج
+END:VEVENT
+BEGIN:VEVENT
+UID:b14c88ef-9a3e-4c5c-943d-5fffc0b42368
+SUMMARY:18 اردیبهشت غزوه خندق (5 هـ ق)
+DTSTAMP:20230508T040000Z
+DTSTART:20230508
+DESCRIPTION:18 اردیبهشت غزوه خندق (5 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:5eb3c4e7-f0cb-469d-b7bf-f54c49387ace
+SUMMARY:18 اردیبهشت روز فرهنگ پهلوانی و ورزش
+  زورخانه ای
+DTSTAMP:20230508T040000Z
+DTSTART:20230508
+DESCRIPTION:18 اردیبهشت روز فرهنگ پهلوانی و
+  ورزش زورخانه ای
+END:VEVENT
+BEGIN:VEVENT
+UID:30f9bc34-bf3d-4d5e-938e-e05134e24aec
+SUMMARY:18 اردیبهشت روز جهانی صلیب سرخ و هلال
+  احمر
+DTSTAMP:20230508T040000Z
+DTSTART:20230508
+DESCRIPTION:18 اردیبهشت روز جهانی صلیب سرخ و
+  هلال احمر
+END:VEVENT
+BEGIN:VEVENT
+UID:77b75972-cc97-49f5-83b3-bc4cc84c39b9
+SUMMARY:19 اردیبهشت روز بزرگداشت شیخ کلینی
+DTSTAMP:20230509T040000Z
+DTSTART:20230509
+DESCRIPTION:19 اردیبهشت روز بزرگداشت شیخ کلینی
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c728b1-9182-4101-9a09-dfb78a295171
+SUMMARY:19 اردیبهشت روز اسناد ملی و میراث
+  مکتوب
+DTSTAMP:20230509T040000Z
+DTSTART:20230509
+DESCRIPTION:19 اردیبهشت روز اسناد ملی و میراث
+  مکتوب
+END:VEVENT
+BEGIN:VEVENT
+UID:1e441698-f849-438b-baa5-3906673cea7b
+SUMMARY:22 اردیبهشت فتح اندلس به دست مسلمانان
+  (92 هـ ق)
+DTSTAMP:20230512T040000Z
+DTSTART:20230512
+DESCRIPTION:22 اردیبهشت فتح اندلس به دست
+  مسلمانان (92 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:488d3375-3147-4daa-9bc0-67f58780fe32
+SUMMARY:24 اردیبهشت لغو امتیاز تنباکو به
+  فتوای آیت الله میرزا حسن شیرازی(1270 ه ش)
+DTSTAMP:20230514T040000Z
+DTSTART:20230514
+DESCRIPTION:24 اردیبهشت لغو امتیاز تنباکو به
+  فتوای آیت الله میرزا حسن شیرازی(1270 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:89a03c11-a7b3-46e0-a160-44049ce6669d
+SUMMARY:25 اردیبهشت روز بزرگداشت حکیم
+  ابوالقاسم فردوسی و پاسداشت زبان فارسی
+DTSTAMP:20230515T040000Z
+DTSTART:20230515
+DESCRIPTION:25 اردیبهشت روز بزرگداشت حکیم
+  ابوالقاسم فردوسی و پاسداشت زبان فارسی
+END:VEVENT
+BEGIN:VEVENT
+UID:5a4a5024-c859-4e89-bb0a-95d8e0e0fa04
+SUMMARY:تعطیل - 26 اردیبهشت شهادت حضرت امام
+  جعفر صادق علیه السلام (148 هـ ق)
+DTSTAMP:20230516T040000Z
+DTSTART:20230516
+DESCRIPTION:26 اردیبهشت شهادت حضرت امام جعفر
+  صادق علیه السلام (148 هـ ق)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:13c0cdd3-12b9-4a99-a8d8-44c907f02d50
+SUMMARY:27 اردیبهشت روز ملی ارتباطات و روابط
+  عمومی
+DTSTAMP:20230517T040000Z
+DTSTART:20230517
+DESCRIPTION:27 اردیبهشت روز ملی ارتباطات و
+  روابط عمومی
+END:VEVENT
+BEGIN:VEVENT
+UID:ae8d8672-4372-41e7-a097-cf6b9cb5a303
+SUMMARY:28 اردیبهشت روز بزرگداشت حکیم عمر
+  خیام
+DTSTAMP:20230518T040000Z
+DTSTART:20230518
+DESCRIPTION:28 اردیبهشت روز بزرگداشت حکیم عمر
+  خیام
+END:VEVENT
+BEGIN:VEVENT
+UID:07af521d-5335-449b-8fe4-c0116f97dfec
+SUMMARY:28 اردیبهشت روز جهانی موزه و میراث
+  فرهنگی
+DTSTAMP:20230518T040000Z
+DTSTART:20230518
+DESCRIPTION:28 اردیبهشت روز جهانی موزه و میراث
+  فرهنگی
+END:VEVENT
+BEGIN:VEVENT
+UID:20e65efc-d380-4759-8f96-907d2607b3c5
+SUMMARY:30 اردیبهشت روز ملی جمعیت
+DTSTAMP:20230520T040000Z
+DTSTART:20230520
+DESCRIPTION:30 اردیبهشت روز ملی جمعیت
+END:VEVENT
+BEGIN:VEVENT
+UID:a015ae27-138b-41bc-80a0-d84ebf67d2de
+SUMMARY:30 اردیبهشت روز ایران گردی و ایران
+  شناسی
+DTSTAMP:20230520T040000Z
+DTSTART:20230520
+DESCRIPTION:30 اردیبهشت روز ایران گردی و ایران
+  شناسی
+END:VEVENT
+BEGIN:VEVENT
+UID:dad33300-a43f-45b2-8023-73ccad53fc55
+SUMMARY:31 اردیبهشت روز اهدای عضو ، اهدای
+  زندگی
+DTSTAMP:20230521T040000Z
+DTSTART:20230521
+DESCRIPTION:31 اردیبهشت روز اهدای عضو ، اهدای
+  زندگی
+END:VEVENT
+BEGIN:VEVENT
+UID:e6e36259-6f3b-4eae-8c64-9deeb85d91e6
+SUMMARY:31 اردیبهشت ولادت حضرت معصومه سلام
+  الله علیها (173 هـ ق) و روز دختران
+DTSTAMP:20230521T040000Z
+DTSTART:20230521
+DESCRIPTION:31 اردیبهشت ولادت حضرت معصومه سلام
+  الله علیها (173 هـ ق) و روز دختران
+END:VEVENT
+BEGIN:VEVENT
+UID:95d852bc-ceae-444a-8570-b87ded48a2b6
+SUMMARY:01 خرداد روز بزرگداشت ملاصدرا
+  (صدرالمتألهین)
+DTSTAMP:20230522T040000Z
+DTSTART:20230522
+DESCRIPTION:01 خرداد روز بزرگداشت ملاصدرا
+  (صدرالمتألهین)
+END:VEVENT
+BEGIN:VEVENT
+UID:95d0f507-5645-4a3b-818e-05b1dc02acd5
+SUMMARY:01 خرداد روز بهره وری و بهینه سازی
+  مصرف
+DTSTAMP:20230522T040000Z
+DTSTART:20230522
+DESCRIPTION:01 خرداد روز بهره وری و بهینه سازی
+  مصرف
+END:VEVENT
+BEGIN:VEVENT
+UID:ffa488fa-4a8d-415a-a786-71b15e7c8e57
+SUMMARY:03 خرداد فتح خرمشهر در عملیات بیت
+  المقدس (1361 ه ش) و روز مقاومت، ایثار و
+  پیروزی
+DTSTAMP:20230524T040000Z
+DTSTART:20230524
+DESCRIPTION:03 خرداد فتح خرمشهر در عملیات بیت
+  المقدس (1361 ه ش) و روز مقاومت، ایثار و
+  پیروزی
+END:VEVENT
+BEGIN:VEVENT
+UID:166dd447-f230-4eaf-b5c8-c6444f4023fa
+SUMMARY:04 خرداد روز مقاومت و پایداری - روز
+  دزفول
+DTSTAMP:20230525T040000Z
+DTSTART:20230525
+DESCRIPTION:04 خرداد روز مقاومت و پایداری - روز
+  دزفول
+END:VEVENT
+BEGIN:VEVENT
+UID:86579308-59c9-4464-8bf6-ed7259965619
+SUMMARY:04 خرداد روز تجلیل از امامزادگان و
+  بقاع متبرکه
+DTSTAMP:20230525T040000Z
+DTSTART:20230525
+DESCRIPTION:04 خرداد روز تجلیل از امامزادگان و
+  بقاع متبرکه
+END:VEVENT
+BEGIN:VEVENT
+UID:f5aee746-87f5-4d2d-b356-0532d3b78520
+SUMMARY:04 خرداد روز بزرگداشت حضرت صالح بن
+  موسی کاظم علیه السلام
+DTSTAMP:20230525T040000Z
+DTSTART:20230525
+DESCRIPTION:04 خرداد روز بزرگداشت حضرت صالح بن
+  موسی کاظم علیه السلام
+END:VEVENT
+BEGIN:VEVENT
+UID:1a445892-d999-473d-aa34-1b8f822a259f
+SUMMARY:05 خرداد روز نسیم مهر (روز حمایت از
+  خانواده زندانیان)
+DTSTAMP:20230526T040000Z
+DTSTART:20230526
+DESCRIPTION:05 خرداد روز نسیم مهر (روز حمایت از
+  خانواده زندانیان)
+END:VEVENT
+BEGIN:VEVENT
+UID:336ba1e6-503c-4fe3-a85e-5f952460d327
+SUMMARY:05 خرداد روز بزرگداشت حضرت احمدبن
+  موسی شاهچراغ علیه السلام
+DTSTAMP:20230526T040000Z
+DTSTART:20230526
+DESCRIPTION:05 خرداد روز بزرگداشت حضرت احمدبن
+  موسی شاهچراغ علیه السلام
+END:VEVENT
+BEGIN:VEVENT
+UID:344c470b-6856-4ead-a40e-54cad6473bd8
+SUMMARY:07 خرداد افتتاح اولین دوره مجلس شورای
+  اسلامی (1359 ه ش)
+DTSTAMP:20230528T040000Z
+DTSTART:20230528
+DESCRIPTION:07 خرداد افتتاح اولین دوره مجلس
+  شورای اسلامی (1359 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:959b9089-6903-4fbf-aac9-8b28df50423a
+SUMMARY:10 خرداد ولادت حضرت امام رضا علیه
+  السلام (148 هـ ق)
+DTSTAMP:20230531T040000Z
+DTSTART:20230531
+DESCRIPTION:10 خرداد ولادت حضرت امام رضا علیه
+  السلام (148 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:cad3586f-8cc2-43d0-beea-326eef660843
+SUMMARY:10 خرداد روز جهانی بدون دخانیات
+DTSTAMP:20230531T040000Z
+DTSTART:20230531
+DESCRIPTION:10 خرداد روز جهانی بدون دخانیات
+END:VEVENT
+BEGIN:VEVENT
+UID:3f845ef9-1fdd-486f-80c0-6d52fb2c6938
+SUMMARY:تعطیل - 14 خرداد رحلت حضرت امام خمینی
+  (رحمة الله عليه) رهبر کبیر انقلاب و
+  بنیانگذار جمهوری اسلامی ایران(1368 ه ش)
+DTSTAMP:20230604T040000Z
+DTSTART:20230604
+DESCRIPTION:14 خرداد رحلت حضرت امام خمینی (رحمة
+  الله عليه) رهبر کبیر انقلاب و بنیانگذار
+  جمهوری اسلامی ایران(1368 ه ش)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1c04e1d-5b7b-4c89-ab06-d1482ed453d0
+SUMMARY:14 خرداد انتخاب حضرت آیت الله خامنه ای
+  به رهبری (1368 ه ش)
+DTSTAMP:20230604T040000Z
+DTSTART:20230604
+DESCRIPTION:14 خرداد انتخاب حضرت آیت الله خامنه
+  ای به رهبری (1368 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:9f04bc49-cbef-4568-be3d-dcfb93b0b87e
+SUMMARY:تعطیل - 15 خرداد قیام خونین 15 خرداد(1342
+  ه ش)
+DTSTAMP:20230605T040000Z
+DTSTART:20230605
+DESCRIPTION:15 خرداد قیام خونین 15 خرداد(1342 ه ش)
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a9dbc8-944a-4b99-ae84-1c48980f4064
+SUMMARY:15 خرداد زندانی شدن حضرت امام خمینی
+  (رحمة الله عليه) به دست مأموران ستم شاهی
+  پهلوی (1342 ه ش)
+DTSTAMP:20230605T040000Z
+DTSTART:20230605
+DESCRIPTION:15 خرداد زندانی شدن حضرت امام خمینی
+  (رحمة الله عليه) به دست مأموران ستم شاهی
+  پهلوی (1342 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:2823db08-07dd-4f00-a5fb-232e9417cf70
+SUMMARY:15 خرداد روز جهانی محیط زیست
+DTSTAMP:20230605T040000Z
+DTSTART:20230605
+DESCRIPTION:15 خرداد روز جهانی محیط زیست
+END:VEVENT
+BEGIN:VEVENT
+UID:41ce76a5-2b97-4975-8ab2-dcf53e8d17b4
+SUMMARY:20 خرداد روز صنایع دستی
+DTSTAMP:20230610T040000Z
+DTSTART:20230610
+DESCRIPTION:20 خرداد روز صنایع دستی
+END:VEVENT
+BEGIN:VEVENT
+UID:4a406ad0-62d1-4b74-930e-e5867e90f651
+SUMMARY:20 خرداد شهادت آیت الله سعیدی به دست
+  ماموران ستم شاهی پهلوی(1349 ه ش)
+DTSTAMP:20230610T040000Z
+DTSTART:20230610
+DESCRIPTION:20 خرداد شهادت آیت الله سعیدی به دست
+  ماموران ستم شاهی پهلوی(1349 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b28a27-f8d8-4d20-9bd6-2280f3ce623a
+SUMMARY:22 خرداد شهادت حضرت امام رضا علیه
+  السلام به روایتی (202 هـ ق)
+DTSTAMP:20230612T040000Z
+DTSTART:20230612
+DESCRIPTION:22 خرداد شهادت حضرت امام رضا علیه
+  السلام به روایتی (202 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:ce77a94d-493e-4339-8681-d6192c7d6e80
+SUMMARY:22 خرداد غزوه بنی قریظه
+DTSTAMP:20230612T040000Z
+DTSTART:20230612
+DESCRIPTION:22 خرداد غزوه بنی قریظه
+END:VEVENT
+BEGIN:VEVENT
+UID:2fec9731-36ab-44f8-992a-383bc18fff68
+SUMMARY:24 خرداد روز دحوالارض-حرکت امام رضا از
+  مدینه به سمت خراسان(200 هـ ق)
+DTSTAMP:20230614T040000Z
+DTSTART:20230614
+DESCRIPTION:24 خرداد روز دحوالارض-حرکت امام رضا
+  از مدینه به سمت خراسان(200 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:9d7b96f8-b4e6-4c28-839b-c24a3441ad4a
+SUMMARY:25 خرداد روز گل و گیاه
+DTSTAMP:20230615T040000Z
+DTSTART:20230615
+DESCRIPTION:25 خرداد روز گل و گیاه
+END:VEVENT
+BEGIN:VEVENT
+UID:612b49d0-88f9-426a-9518-e1abf7d5cbcc
+SUMMARY:26 خرداد شهادت سربازان دلیر اسلام:
+  بخارایی، امانی، صفار هرندی و نیک نژاد(1344
+  ه ش)
+DTSTAMP:20230616T040000Z
+DTSTART:20230616
+DESCRIPTION:26 خرداد شهادت سربازان دلیر اسلام:
+  بخارایی، امانی، صفار هرندی و نیک نژاد(1344
+  ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:2f199d1c-ee91-4217-8f7d-485bc3687804
+SUMMARY:27 خرداد روز جهاد کشاورزی(تشکیل جهاد
+  سازندگی به فرمان حضرت امام خمینی(رحمة
+  الله عليه) 1358 ه ش)
+DTSTAMP:20230617T040000Z
+DTSTART:20230617
+DESCRIPTION:27 خرداد روز جهاد کشاورزی(تشکیل
+  جهاد سازندگی به فرمان حضرت امام
+  خمینی(رحمة الله عليه) 1358 ه ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:35a61665-9e4b-4443-ac32-9ac845be0514
+SUMMARY:27 خرداد روز جهانی بیابان زدایی
+DTSTAMP:20230617T040000Z
+DTSTART:20230617
+DESCRIPTION:27 خرداد روز جهانی بیابان زدایی
+END:VEVENT
+BEGIN:VEVENT
+UID:ad384a04-8951-4481-8a15-0e571629fe9a
+SUMMARY:29 خرداد درگذشت دکتر علی شریعتی(1356 ه ش)
+DTSTAMP:20230619T040000Z
+DTSTART:20230619
+DESCRIPTION:29 خرداد درگذشت دکتر علی شریعتی(1356 ه
+  ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:1f8fcd85-ff18-4e5a-b291-2fe9794bc2be
+SUMMARY:29 خرداد شهادت حضرت امام محمد تقی علیه
+  السلام (220 هـ ق)
+DTSTAMP:20230619T040000Z
+DTSTART:20230619
+DESCRIPTION:29 خرداد شهادت حضرت امام محمد تقی
+  علیه السلام (220 هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:4323baab-c9fc-4e6c-8c44-55f8550659b8
+SUMMARY:30 خرداد شهادت زائران حرم رضوی علیه
+  السلام به دست ایادی آمریکا(عاشورای 1373 ه
+  ش)
+DTSTAMP:20230620T040000Z
+DTSTART:20230620
+DESCRIPTION:30 خرداد شهادت زائران حرم رضوی علیه
+  السلام به دست ایادی آمریکا(عاشورای 1373 ه
+  ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:e6f06ada-7242-4951-87dc-5f2e69399ab8
+SUMMARY:30 خرداد روز ازدواج
+DTSTAMP:20230620T040000Z
+DTSTART:20230620
+DESCRIPTION:30 خرداد روز ازدواج
+END:VEVENT
+BEGIN:VEVENT
+UID:65c84ea9-7160-435c-b823-1b31d36a65bf
+SUMMARY:30 خرداد ازدواج حضرت امیرالمومنین علی
+  (علیه السلام ) و حضرت زهرا سلام الله
+  علیها (2هـ ق)
+DTSTAMP:20230620T040000Z
+DTSTART:20230620
+DESCRIPTION:30 خرداد ازدواج حضرت امیرالمومنین
+  علی (علیه السلام ) و حضرت زهرا سلام الله
+  علیها (2هـ ق)
+END:VEVENT
+BEGIN:VEVENT
+UID:0faf83f7-01e9-4448-8669-199faf7d4f68
+SUMMARY:31 خرداد شهادت دکتر مصطفی چمران(1360 ه ش)
+DTSTAMP:20230621T040000Z
+DTSTART:20230621
+DESCRIPTION:31 خرداد شهادت دکتر مصطفی چمران(1360 ه
+  ش)
+END:VEVENT
+BEGIN:VEVENT
+UID:0f6950d6-7c90-44c2-882b-131fa0885d19
+SUMMARY:31 خرداد روز بسیج استادان
+DTSTAMP:20230621T040000Z
+DTSTART:20230621
+DESCRIPTION:31 خرداد روز بسیج استادان
+END:VEVENT
+END:VCALENDAR
